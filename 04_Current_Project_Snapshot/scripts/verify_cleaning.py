@@ -1,7 +1,11 @@
-"""Replay Qasim's cleaning rules on the official FMA medium metadata selection.
+"""Replay the recorded cleaning rules on the official FMA medium metadata selection.
 
 AI-generated code (OpenAI Codex). User confirmation: "yea this is final".
+Repository reconstruction option added for the user request:
+"Complete the five pending tasks. And how are we supposed to fix a to reported task and historical issues? Without going outside of our specification and scope?"
 """
+import argparse
+import hashlib
 from io import StringIO
 from pathlib import Path
 
@@ -15,14 +19,32 @@ def read_export(path):
     return frame.sort_index()
 
 
-def main():
+EXPORT_COLUMNS = (
+    "track_title artist_name album_title track_genre_top track_genres track_duration track_bit_rate "
+    "track_listens track_favorites track_interest track_date_created album_date_released track_language_code "
+    "track_license track_tags set_split artist_id album_id"
+).split()
+
+
+def write_verified(path, frame, expected_digest):
+    data = frame.rename_axis("track_id").to_csv(lineterminator="\r\n").encode("utf-8")
+    if hashlib.sha256(data).hexdigest() != expected_digest:
+        raise ValueError(f"Reconstructed CSV differs from the recorded export: {path}")
+    if path.exists():
+        if path.read_bytes() != data:
+            raise ValueError(f"Existing file differs: {path}")
+        return
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("xb") as stream:
+        stream.write(data)
+
+
+def main(rebuild=False):
     review = Path("data/review/cleaning")
-    clean = read_export("data/raw/fma_medium_clean2.csv")
-    removed = read_export(review / "fma_medium_removed_duplicates.csv")
     raw = pd.read_csv("data/raw/fma_metadata/tracks.csv", header=[0, 1], index_col=0, low_memory=False)
     source = raw.loc[raw[("set", "subset")].isin(["small", "medium"])].sort_index()
     source.columns = ["_".join(column) for column in source.columns]
-    frame = source.loc[:, clean.columns].copy()
+    frame = source.loc[:, EXPORT_COLUMNS].copy()
     for column in ("track_title", "album_title"):
         frame[column] = frame[column].str.strip()
     frame["album_date_released"] = pd.to_datetime(frame["album_date_released"], errors="coerce")
@@ -32,6 +54,12 @@ def main():
     key = ["track_title", "artist_name", "track_duration"]
     duplicates = frame.duplicated(key)
     frame["track_tags"] = frame.track_tags.replace("[]", "")
+    clean_path = Path("data/raw/fma_medium_clean2.csv")
+    removed_path = review / "fma_medium_removed_duplicates.csv"
+    if rebuild:
+        write_verified(clean_path, frame.loc[~duplicates], "f094a8df9b4eea58b993e99440763da33d4a47fd9c5c9e5f71537208dae6a178")
+        write_verified(removed_path, frame.loc[duplicates], "d741c0227b47b8fb694084f116e3af8130f4e308beab33d4529dd58594f47e7b")
+    clean, removed = read_export(clean_path), read_export(removed_path)
     for rows, delivered in ((frame.loc[~duplicates], clean), (frame.loc[duplicates], removed)):
         expected = read_export(StringIO(rows.rename_axis("track_id").to_csv()))
         pd.testing.assert_frame_equal(delivered, expected)
@@ -44,4 +72,6 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--rebuild", action="store_true", help="Reconstruct both hash-checked team CSVs from official tracks.csv")
+    main(parser.parse_args().rebuild)
