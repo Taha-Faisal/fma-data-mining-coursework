@@ -1,0 +1,41 @@
+track_id,model,hit,score,prediction,group_id,track_genre_top,created_year,predicted,split,error
+2,CNN,0,0.5630776286125183,1.0,2,Hip-Hop,2008,True,validation,false_positive
+3,CNN,0,0.5369503498077393,1.0,2,Hip-Hop,2008,True,validation,false_positive
+5,CNN,0,0.5319692492485046,1.0,2,Hip-Hop,2008,True,validation,false_positive
+134,CNN,0,0.539165198802948,1.0,2,Hip-Hop,2008,True,validation,false_positive
+704,CNN,0,0.681090772151947,1.0,704,International,2008,True,validation,false_positive
+706,CNN,0,0.6037566661834717,1.0,704,International,2008,True,validation,false_positive
+707,CNN,0,0.6127153038978577,1.0,704,International,2008,True,validation,false_positive
+714,CNN,0,0.5493988394737244,1.0,714,Folk,2008,True,validation,false_positive
+715,CNN,0,0.583618700504303,1.0,714,Folk,2008,True,validation,false_positive
+717,CNN,0,0.7335473299026489,1.0,714,Folk,2008,True,validation,false_positive
+1891,CNN,1,0.40821778774261475,0.0,1888,Rock,2008,False,validation,false_negative
+3720,CNN,1,0.3982309103012085,0.0,3720,Rock,2008,False,validation,false_negative
+3721,CNN,1,0.4366220533847809,0.0,3720,Rock,2008,False,validation,false_negative
+3722,CNN,1,0.41733086109161377,0.0,3720,Rock,2008,False,validation,false_negative
+3724,CNN,1,0.4765948951244354,0.0,3720,Rock,2008,False,validation,false_negative
+3725,CNN,1,0.45045000314712524,0.0,3720,Rock,2008,False,validation,false_negative
+4787,CNN,1,0.4786050319671631,0.0,4777,Rock,2008,False,validation,false_negative
+5012,CNN,1,0.49711042642593384,0.0,5012,Old-Time / Historic,2009,False,validation,false_negative
+5016,CNN,1,0.4434799253940582,0.0,5012,Old-Time / Historic,2009,False,validation,false_negative
+5021,CNN,1,0.4673621356487274,0.0,5012,Old-Time / Historic,2009,False,validation,false_negative
+458,CNN,0,0.5287463068962097,,458,Rock,2008,True,test,false_positive
+664,CNN,0,0.5898345112800598,,664,Electronic,2008,True,test,false_positive
+1149,CNN,0,0.5093982815742493,,1147,Rock,2008,True,test,false_positive
+1276,CNN,0,0.5123952627182007,,1276,Experimental,2008,True,test,false_positive
+1277,CNN,0,0.579697847366333,,1276,Experimental,2008,True,test,false_positive
+3263,CNN,0,0.716317892074585,,3263,Folk,2008,True,test,false_positive
+3264,CNN,0,0.6823621392250061,,3263,Folk,2008,True,test,false_positive
+3265,CNN,0,0.6988435387611389,,3263,Folk,2008,True,test,false_positive
+3266,CNN,0,0.6585273146629333,,3263,Folk,2008,True,test,false_positive
+3612,CNN,0,0.5083000063896179,,3612,Rock,2008,True,test,false_positive
+550,CNN,1,0.47868117690086365,,550,Electronic,2008,False,test,false_negative
+665,CNN,1,0.44420307874679565,,664,Electronic,2008,False,test,false_negative
+995,CNN,1,0.37239107489585876,,995,Experimental,2008,False,test,false_negative
+1278,CNN,1,0.4970893859863281,,1276,Experimental,2008,False,test,false_negative
+1706,CNN,1,0.4843800365924835,,1706,Rock,2008,False,test,false_negative
+1929,CNN,1,0.47586411237716675,,1121,Experimental,2008,False,test,false_negative
+3763,CNN,1,0.41128820180892944,,3761,Rock,2008,False,test,false_negative
+3766,CNN,1,0.42202815413475037,,3761,Rock,2008,False,test,false_negative
+6637,CNN,1,0.48643067479133606,,6637,Jazz,2009,False,test,false_negative
+17584,CNN,1,0.4693226218223572,,17584,Classical,2009,False,test,false_negative

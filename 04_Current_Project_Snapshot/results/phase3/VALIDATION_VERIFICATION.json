@@ -1,0 +1,78 @@
+{
+  "status": "passed",
+  "cohort_id": "e835f28bc62fd9389d0aeada330cd892bb6d9747482860d87a584f2d2b4fb344",
+  "models": 7,
+  "validation_tracks_per_model": 2546,
+  "predictions": 17822,
+  "model_checks": [
+    {
+      "model": "Majority",
+      "tracks": 2546,
+      "labels_match_frozen_cohort": true,
+      "metrics_recomputed_and_matched": true
+    },
+    {
+      "model": "Always hit",
+      "tracks": 2546,
+      "labels_match_frozen_cohort": true,
+      "metrics_recomputed_and_matched": true
+    },
+    {
+      "model": "Naive Bayes",
+      "tracks": 2546,
+      "labels_match_frozen_cohort": true,
+      "metrics_recomputed_and_matched": true
+    },
+    {
+      "model": "Decision Tree",
+      "tracks": 2546,
+      "labels_match_frozen_cohort": true,
+      "metrics_recomputed_and_matched": true
+    },
+    {
+      "model": "kNN",
+      "tracks": 2546,
+      "labels_match_frozen_cohort": true,
+      "metrics_recomputed_and_matched": true
+    },
+    {
+      "model": "MLP",
+      "tracks": 2546,
+      "labels_match_frozen_cohort": true,
+      "metrics_recomputed_and_matched": true
+    },
+    {
+      "model": "CNN",
+      "tracks": 2546,
+      "labels_match_frozen_cohort": true,
+      "metrics_recomputed_and_matched": true
+    }
+  ],
+  "cnn_trial_checks": [
+    {
+      "trial": "lr001_unweighted",
+      "checkpoint_hash_verified": true,
+      "checkpoint_reload_verified": true,
+      "metrics_recomputed_and_matched": true,
+      "best_epoch_rule_passed": true
+    },
+    {
+      "trial": "lr0003_unweighted",
+      "checkpoint_hash_verified": true,
+      "checkpoint_reload_verified": true,
+      "metrics_recomputed_and_matched": true,
+      "best_epoch_rule_passed": true
+    },
+    {
+      "trial": "selected_lr_weighted",
+      "checkpoint_hash_verified": true,
+      "checkpoint_reload_verified": true,
+      "metrics_recomputed_and_matched": true,
+      "best_epoch_rule_passed": true
+    }
+  ],
+  "all_current_labels_and_metrics_match": true,
+  "all_cnn_checkpoint_reloads_verified": true,
+  "test_scored": false,
+  "verified_utc": "2026-11-16T01:05:54.858029+00:00"
+}

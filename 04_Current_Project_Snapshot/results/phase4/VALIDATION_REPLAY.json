@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "models": 7,
+  "tracks_per_model": 2546,
+  "both_protocol_predictions_match": true,
+  "max_score_difference": 0.0,
+  "verified_utc": "2026-11-16T01:29:28.279556+00:00"
+}

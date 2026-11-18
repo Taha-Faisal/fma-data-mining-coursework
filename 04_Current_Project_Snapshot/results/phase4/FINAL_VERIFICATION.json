@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "test_tracks_per_model": 2026,
+  "models": 7,
+  "test_prediction_rows": 14182,
+  "both_protocol_metrics_recomputed": true,
+  "locked_threshold_selection_verified": true,
+  "checkpoint_and_source_hashes_verified": true,
+  "dashboard_evidence_hashes_verified": true,
+  "standalone_embedded_data_matches": true,
+  "ui_checked": [
+    "test metrics",
+    "phase-four filter",
+    "held-out evidence dialog"
+  ],
+  "human_submission_tasks_pending": 5,
+  "local_only": true
+}

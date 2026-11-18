@@ -1,0 +1,69 @@
+{
+  "cohort_id": "e835f28bc62fd9389d0aeada330cd892bb6d9747482860d87a584f2d2b4fb344",
+  "manifest_sha256": "b9f35a4f7de3fb803c2feeac00fa38edea378cc3d7318a780703c969d4b59db5",
+  "script_sha256": "4007715784004e0e223a620c468a6e4e886dbb9ee0f7a53b1e27225ef72aaa36",
+  "loader_sha256": "25d1cc5ee0025f704d7348c23d1990fbd0fe47109ae20c7d79814f081ad9f302",
+  "training_tracks": 20300,
+  "validation_tracks": 2546,
+  "reserved_test_tracks": 2026,
+  "cutoff": {
+    "listens_cutoff": 2179.25,
+    "minimum_integer_listens": 2180,
+    "rule": "track_listens >= reviewed_training_quantile_0.75",
+    "fitted_on": "training",
+    "previous_cutoff": 2178,
+    "label_changes": 8
+  },
+  "shape": [
+    1,
+    128,
+    1292
+  ],
+  "normalization": "Fixed (dB+80)/80, clipped to [0,1]",
+  "architecture": "Conv 1->16->32->64, kernel 3 padding 1, ReLU/max-pool each, global average pool, dropout .3, linear 64->1",
+  "optimizer": "Adam",
+  "batch_size": 16,
+  "max_epochs": 30,
+  "patience": 5,
+  "seed": 42,
+  "threshold": 0.5,
+  "checkpoint_selection": "Highest validation hit F1, first epoch/settings on ties",
+  "declared_trials": [
+    {
+      "name": "lr001_unweighted",
+      "learning_rate": 0.001,
+      "pos_weight": 1.0
+    },
+    {
+      "name": "lr0003_unweighted",
+      "learning_rate": 0.0003,
+      "pos_weight": 1.0
+    }
+  ],
+  "followup": "Train pos_weight=training_nonhits/training_hits at the learning rate selected by validation F1 from the first two trials",
+  "training_positive_weight": 3.0,
+  "dropout": 0.3,
+  "augmentation": "none",
+  "workers": 2,
+  "precision": "CUDA automatic mixed precision float16 with gradient scaling",
+  "deterministic_algorithms": true,
+  "channels_last": true,
+  "versions": {
+    "torch": "2.11.0+cu128",
+    "numpy": "2.5.4",
+    "pandas": "3.1.1",
+    "scikit-learn": "1.9.1",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.2"
+  },
+  "python": "3.14.4",
+  "cuda": "12.8",
+  "cudnn": 91900,
+  "gpu": "NVIDIA GeForce RTX 4070",
+  "test_used_for_selection": false,
+  "implementation_references": [
+    "https://docs.pytorch.org/docs/2.11/notes/amp_examples.html",
+    "https://docs.pytorch.org/docs/2.11/generated/torch.nn.BCEWithLogitsLoss.html",
+    "https://docs.pytorch.org/docs/2.11/notes/randomness.html"
+  ]
+}

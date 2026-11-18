@@ -1,0 +1,8 @@
+__pycache__/
+.venv*/
+.work_tmp/
+*.zip
+*.mp3
+*.npy
+*.env
+04_Current_Project_Snapshot/data/raw/

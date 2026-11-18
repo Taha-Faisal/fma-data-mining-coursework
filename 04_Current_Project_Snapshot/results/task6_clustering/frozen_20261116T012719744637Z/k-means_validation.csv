@@ -1,0 +1,2547 @@
+track_id,track_genre_top,cluster
+2,Hip-Hop,3
+3,Hip-Hop,3
+5,Hip-Hop,3
+134,Hip-Hop,3
+694,Hip-Hop,3
+695,Hip-Hop,3
+696,Rock,3
+698,Rock,1
+701,Rock,1
+702,Rock,2
+703,Rock,1
+704,International,3
+705,International,3
+706,International,3
+707,International,3
+708,International,3
+709,International,3
+714,Folk,2
+715,Folk,0
+716,Folk,0
+717,Folk,0
+718,Folk,0
+868,Experimental,3
+1014,Rock,1
+1015,Rock,1
+1016,Rock,2
+1017,Rock,2
+1018,Rock,2
+1052,Rock,3
+1093,Experimental,1
+1095,Experimental,2
+1193,Folk,2
+1195,Folk,0
+1196,Folk,2
+1197,Folk,0
+1199,Folk,0
+1498,Experimental,2
+1559,Experimental,0
+1888,Rock,2
+1889,Rock,1
+1890,Rock,1
+1891,Rock,2
+1893,Folk,0
+1894,Folk,0
+1896,Folk,2
+3446,Spoken,0
+3449,Spoken,2
+3450,Spoken,0
+3720,Rock,2
+3721,Rock,2
+3722,Rock,2
+3723,Rock,2
+3724,Rock,2
+3725,Rock,2
+3832,Folk,0
+3915,Folk,0
+3919,Folk,2
+3920,Folk,0
+3921,Folk,0
+3973,Rock,3
+3974,Rock,2
+3975,Rock,1
+3976,Rock,1
+3981,Rock,2
+3983,Rock,2
+3985,Rock,2
+3986,Rock,2
+3989,Rock,2
+4125,Rock,3
+4126,Rock,2
+4133,Rock,3
+4193,Rock,2
+4194,Rock,2
+4195,Rock,2
+4197,Rock,2
+4198,Rock,2
+4201,Rock,2
+4202,Rock,2
+4346,Rock,2
+4348,Rock,2
+4363,Rock,2
+4368,Rock,2
+4391,Rock,1
+4394,Rock,1
+4396,Rock,1
+4432,Rock,2
+4443,Rock,2
+4500,Rock,2
+4501,Rock,2
+4760,Rock,2
+4761,Rock,0
+4762,Rock,0
+4764,Rock,2
+4767,Rock,0
+4769,Rock,0
+4771,Rock,2
+4777,Rock,2
+4778,Rock,1
+4779,Rock,2
+4780,Rock,2
+4781,Rock,2
+4782,Rock,1
+4783,Rock,2
+4784,Rock,1
+4785,Rock,2
+4786,Rock,2
+4787,Rock,1
+4788,Rock,2
+4799,Rock,2
+4800,Rock,2
+4801,Rock,1
+4802,Rock,2
+4803,Rock,2
+5012,Old-Time / Historic,0
+5013,Old-Time / Historic,0
+5015,Old-Time / Historic,0
+5016,Old-Time / Historic,0
+5021,Old-Time / Historic,0
+5022,Old-Time / Historic,0
+5024,Old-Time / Historic,0
+5030,Old-Time / Historic,0
+5031,Old-Time / Historic,0
+5034,Old-Time / Historic,0
+5036,Old-Time / Historic,0
+5038,Old-Time / Historic,0
+5043,Old-Time / Historic,0
+5156,Folk,0
+5157,Folk,0
+5158,Folk,0
+5159,Folk,0
+5169,Folk,0
+5170,Folk,0
+5171,Folk,0
+6439,Hip-Hop,3
+6440,Hip-Hop,3
+6442,Hip-Hop,2
+6443,Hip-Hop,0
+6448,Hip-Hop,0
+6831,Rock,2
+6832,Rock,2
+6850,Rock,2
+6854,Folk,0
+6855,Folk,0
+6856,Folk,0
+6857,Folk,0
+6859,Folk,0
+8056,Rock,2
+8057,Rock,2
+8058,Rock,3
+8059,Rock,2
+8061,Rock,1
+8064,Rock,2
+8080,Rock,1
+8081,Rock,1
+8514,Rock,2
+8914,Rock,2
+8921,Rock,2
+9188,Rock,1
+9307,Experimental,1
+9477,Experimental,2
+9505,Experimental,3
+9511,Rock,1
+9514,Rock,2
+9516,Rock,1
+9517,Rock,2
+9550,Rock,3
+9551,Rock,2
+9552,Rock,0
+9553,Rock,2
+9554,Rock,2
+9555,Rock,2
+9556,Rock,2
+9557,Rock,0
+9558,Rock,2
+9559,Rock,2
+9560,Rock,0
+9561,Rock,2
+9640,Rock,3
+9721,Experimental,1
+10004,Rock,0
+10005,Rock,3
+10006,Rock,2
+10007,Rock,2
+10008,Rock,3
+10032,Classical,0
+10033,Classical,0
+10035,Classical,0
+10037,Classical,0
+10038,Classical,0
+10040,Classical,0
+10041,Classical,0
+10042,Classical,0
+10043,Classical,0
+10044,Classical,0
+10045,Classical,2
+10046,Classical,0
+10086,Old-Time / Historic,2
+10094,Old-Time / Historic,0
+10099,Old-Time / Historic,0
+10104,Old-Time / Historic,0
+10147,Rock,2
+10148,Rock,1
+10149,Rock,1
+10150,Rock,1
+10151,Rock,2
+10153,Rock,1
+10155,Rock,2
+10157,Rock,1
+10160,Rock,2
+10165,Rock,1
+10180,Rock,2
+10192,Hip-Hop,3
+10357,Old-Time / Historic,0
+10360,Old-Time / Historic,0
+10364,Old-Time / Historic,0
+10366,Old-Time / Historic,2
+10367,Old-Time / Historic,0
+10368,Old-Time / Historic,2
+10449,Folk,0
+10451,Folk,2
+10456,Folk,2
+10458,Folk,0
+10459,Folk,2
+10460,Folk,1
+10567,Folk,0
+10568,Folk,2
+10621,Electronic,0
+10623,Electronic,3
+10627,Electronic,3
+10666,Hip-Hop,3
+10668,Rock,2
+10669,Rock,1
+10670,Rock,1
+10671,Rock,1
+10672,Rock,2
+10673,Rock,2
+10674,Rock,0
+10675,Rock,0
+10676,Rock,2
+10677,Rock,3
+10815,Hip-Hop,3
+10879,Rock,2
+10880,Rock,2
+10881,Rock,2
+10883,Rock,2
+10884,Rock,2
+10885,Rock,2
+10929,Rock,1
+10930,Rock,1
+10932,Rock,3
+10933,Rock,3
+10934,Rock,1
+10935,Rock,1
+10936,Rock,1
+10937,Rock,1
+10938,Rock,1
+10983,Experimental,1
+11030,Rock,1
+11031,Rock,1
+11032,Rock,2
+11033,Rock,2
+11035,Rock,2
+11036,Rock,2
+11037,Rock,2
+11039,Rock,1
+11040,Rock,2
+11234,Experimental,2
+11237,Experimental,3
+11239,Experimental,3
+11242,Experimental,2
+11711,Rock,2
+11712,Rock,2
+11713,Rock,2
+11986,Electronic,3
+11987,Electronic,3
+11988,Electronic,3
+11989,Electronic,3
+11992,Electronic,3
+12922,Classical,0
+12923,Classical,0
+12924,Classical,0
+12926,Classical,0
+12927,Classical,0
+13761,Rock,0
+13762,Rock,0
+13763,Rock,0
+13764,Rock,0
+13765,Rock,0
+13766,Rock,0
+13804,Hip-Hop,3
+13805,Hip-Hop,3
+13908,Country,2
+13909,Country,0
+13910,Country,2
+13911,Country,1
+13927,Folk,0
+13928,Folk,2
+14063,Electronic,1
+14064,Electronic,3
+14065,Electronic,1
+14066,Electronic,3
+14067,Electronic,1
+14068,Electronic,3
+14069,Electronic,1
+14070,Electronic,1
+14071,Electronic,3
+14072,Electronic,3
+14073,Hip-Hop,3
+14075,Electronic,3
+14076,Electronic,3
+14077,Electronic,3
+14078,Electronic,1
+14079,Electronic,3
+14080,Electronic,1
+14081,Electronic,3
+14082,Electronic,3
+14083,Electronic,3
+14084,Electronic,3
+14085,Electronic,1
+14086,Electronic,3
+14087,Electronic,3
+14088,Electronic,1
+14104,Electronic,1
+14105,Electronic,1
+14107,Electronic,1
+14110,Electronic,1
+14386,Hip-Hop,3
+14387,Hip-Hop,2
+14388,Hip-Hop,3
+14489,Rock,2
+14491,Rock,1
+14492,Rock,1
+14493,Rock,1
+14494,Electronic,3
+14498,Electronic,3
+14601,International,0
+14602,International,0
+14603,International,0
+14604,International,0
+14733,Rock,2
+14734,Rock,2
+14735,Rock,2
+14736,Rock,2
+14737,Rock,2
+14738,Rock,2
+14739,Rock,2
+14740,Rock,2
+14741,Rock,2
+14742,Rock,1
+14743,Rock,2
+14744,Rock,1
+14745,Rock,0
+14791,Electronic,3
+14792,Electronic,3
+14793,Electronic,3
+14794,Electronic,3
+14795,Electronic,3
+14796,Electronic,3
+14798,Electronic,3
+14799,Electronic,3
+14800,Electronic,3
+14801,Electronic,3
+14802,Electronic,1
+14803,Electronic,3
+14898,Country,2
+14899,Country,3
+14900,Country,2
+14901,Country,2
+14945,Electronic,3
+14946,Electronic,3
+14948,Electronic,3
+14949,Electronic,3
+14961,Electronic,3
+14971,Country,2
+14972,Country,2
+15217,Experimental,3
+15487,International,0
+16025,Folk,0
+16288,Rock,2
+16289,Rock,2
+16296,Rock,2
+16351,Old-Time / Historic,0
+16352,Old-Time / Historic,0
+16353,Old-Time / Historic,0
+16354,Rock,0
+16373,Old-Time / Historic,0
+16374,Old-Time / Historic,0
+16375,Old-Time / Historic,0
+16376,Old-Time / Historic,0
+16377,Old-Time / Historic,0
+16378,Old-Time / Historic,0
+16380,Old-Time / Historic,0
+16381,Old-Time / Historic,0
+16382,Old-Time / Historic,2
+16383,Old-Time / Historic,0
+16384,Old-Time / Historic,0
+16385,Old-Time / Historic,0
+16386,Old-Time / Historic,0
+16387,Old-Time / Historic,2
+16388,Old-Time / Historic,0
+16389,Old-Time / Historic,0
+16390,Old-Time / Historic,0
+16391,Old-Time / Historic,0
+16392,Old-Time / Historic,0
+16393,Old-Time / Historic,0
+16394,Old-Time / Historic,0
+16398,Old-Time / Historic,0
+16399,Old-Time / Historic,2
+16400,Old-Time / Historic,0
+16401,Old-Time / Historic,0
+16402,Old-Time / Historic,0
+16403,Old-Time / Historic,0
+16404,Old-Time / Historic,0
+16405,Old-Time / Historic,2
+16406,Old-Time / Historic,0
+16421,Old-Time / Historic,2
+16422,Old-Time / Historic,2
+16423,Old-Time / Historic,0
+16424,Old-Time / Historic,0
+16425,Old-Time / Historic,2
+16426,Old-Time / Historic,0
+16427,Old-Time / Historic,0
+16428,Old-Time / Historic,0
+16429,Old-Time / Historic,0
+16430,Old-Time / Historic,2
+16431,Old-Time / Historic,0
+16432,Old-Time / Historic,2
+17130,Rock,2
+17259,Rock,3
+17422,Folk,0
+17426,Folk,0
+17601,Rock,0
+17602,Rock,2
+17603,Rock,0
+17696,Electronic,2
+17697,Electronic,3
+17698,Electronic,1
+17700,Electronic,2
+17701,Electronic,1
+17702,Electronic,1
+17703,Electronic,3
+17704,Electronic,2
+17707,Electronic,2
+17711,Rock,2
+17712,Rock,3
+17735,Rock,1
+17824,Electronic,3
+17825,Electronic,3
+17826,Electronic,0
+17827,Electronic,0
+17828,Electronic,3
+17987,Old-Time / Historic,0
+17988,Old-Time / Historic,0
+17989,Old-Time / Historic,0
+17990,Old-Time / Historic,0
+17991,Old-Time / Historic,0
+17992,Old-Time / Historic,0
+17993,Old-Time / Historic,0
+17994,Old-Time / Historic,0
+17995,Old-Time / Historic,0
+17996,Old-Time / Historic,0
+17997,Old-Time / Historic,0
+17998,Old-Time / Historic,0
+17999,Old-Time / Historic,0
+18000,Old-Time / Historic,0
+18001,Old-Time / Historic,0
+18002,Old-Time / Historic,0
+18003,Old-Time / Historic,0
+18004,Old-Time / Historic,0
+18005,Old-Time / Historic,0
+18006,Old-Time / Historic,0
+18007,Old-Time / Historic,0
+18008,Old-Time / Historic,0
+18009,Old-Time / Historic,0
+18010,Old-Time / Historic,0
+18011,Old-Time / Historic,0
+18012,Old-Time / Historic,0
+18013,Old-Time / Historic,0
+18014,Old-Time / Historic,0
+18015,Old-Time / Historic,0
+18016,Old-Time / Historic,0
+18017,Old-Time / Historic,2
+18018,Old-Time / Historic,0
+18019,Old-Time / Historic,0
+18020,Old-Time / Historic,0
+18021,Old-Time / Historic,0
+18022,Old-Time / Historic,0
+18023,Old-Time / Historic,0
+18024,Old-Time / Historic,0
+18025,Old-Time / Historic,0
+18026,Old-Time / Historic,0
+18027,Old-Time / Historic,0
+18028,Old-Time / Historic,0
+18029,Old-Time / Historic,0
+18030,Old-Time / Historic,0
+18031,International,0
+18032,International,0
+18033,International,0
+18034,International,0
+18690,Old-Time / Historic,0
+18692,Old-Time / Historic,0
+18694,Old-Time / Historic,0
+18712,Old-Time / Historic,0
+19459,International,2
+19582,Old-Time / Historic,0
+19583,Old-Time / Historic,0
+19584,Old-Time / Historic,0
+19585,Old-Time / Historic,0
+19586,Old-Time / Historic,2
+19587,Old-Time / Historic,0
+19588,Old-Time / Historic,0
+19589,Old-Time / Historic,0
+19591,Old-Time / Historic,0
+19592,Old-Time / Historic,0
+19593,Old-Time / Historic,2
+19601,Old-Time / Historic,0
+19602,Old-Time / Historic,2
+19603,Old-Time / Historic,0
+19604,Old-Time / Historic,0
+19605,Old-Time / Historic,0
+19606,Old-Time / Historic,0
+19607,Old-Time / Historic,0
+19608,Old-Time / Historic,0
+19609,Old-Time / Historic,0
+19621,Old-Time / Historic,0
+19622,Old-Time / Historic,0
+19623,Old-Time / Historic,0
+19626,Old-Time / Historic,2
+19627,Old-Time / Historic,2
+19628,Old-Time / Historic,0
+19629,Old-Time / Historic,0
+19630,Old-Time / Historic,0
+19631,Old-Time / Historic,0
+19632,Old-Time / Historic,0
+19633,Old-Time / Historic,0
+19634,Old-Time / Historic,0
+19644,Rock,2
+19647,Rock,2
+19648,Rock,2
+19649,Rock,1
+19735,Rock,1
+19737,Rock,2
+19738,Rock,2
+19741,Rock,1
+19742,Rock,2
+19790,Rock,1
+19791,Rock,1
+19793,Rock,1
+19794,Rock,1
+20086,Old-Time / Historic,0
+20088,Old-Time / Historic,0
+20089,Old-Time / Historic,0
+20090,Old-Time / Historic,0
+20091,Old-Time / Historic,0
+20092,Old-Time / Historic,0
+20093,Old-Time / Historic,0
+20094,Old-Time / Historic,0
+20095,Old-Time / Historic,0
+20096,Old-Time / Historic,0
+20097,Old-Time / Historic,0
+20098,Old-Time / Historic,0
+20099,Old-Time / Historic,0
+20100,Old-Time / Historic,0
+20101,Old-Time / Historic,0
+20126,Old-Time / Historic,0
+20127,Old-Time / Historic,0
+20128,Old-Time / Historic,0
+20129,Old-Time / Historic,0
+20130,Old-Time / Historic,0
+20131,Old-Time / Historic,0
+20133,Old-Time / Historic,0
+20134,Old-Time / Historic,0
+20135,Old-Time / Historic,0
+20136,Old-Time / Historic,0
+20137,Old-Time / Historic,2
+20138,Old-Time / Historic,0
+20139,Old-Time / Historic,0
+20142,Old-Time / Historic,0
+20143,Old-Time / Historic,0
+20144,Old-Time / Historic,0
+20145,Old-Time / Historic,0
+20146,Old-Time / Historic,0
+20147,Old-Time / Historic,0
+20149,Old-Time / Historic,0
+20152,Old-Time / Historic,0
+20153,Old-Time / Historic,2
+20154,Old-Time / Historic,0
+20155,Old-Time / Historic,0
+20156,Old-Time / Historic,2
+20158,Old-Time / Historic,0
+20159,Old-Time / Historic,0
+20160,Old-Time / Historic,0
+20161,Old-Time / Historic,0
+20162,Old-Time / Historic,0
+20163,Old-Time / Historic,0
+20165,Old-Time / Historic,0
+20166,Old-Time / Historic,0
+20167,Old-Time / Historic,0
+20168,Old-Time / Historic,0
+20181,Old-Time / Historic,0
+20197,Old-Time / Historic,0
+20198,Old-Time / Historic,0
+20199,Old-Time / Historic,0
+20200,Old-Time / Historic,0
+20201,Old-Time / Historic,0
+20202,Old-Time / Historic,0
+20203,Old-Time / Historic,0
+20204,Old-Time / Historic,2
+20205,Old-Time / Historic,2
+20206,Old-Time / Historic,0
+20207,Old-Time / Historic,0
+20208,Old-Time / Historic,0
+20209,Old-Time / Historic,0
+20231,Rock,0
+20729,Old-Time / Historic,0
+20730,Old-Time / Historic,0
+20731,Old-Time / Historic,0
+20732,Old-Time / Historic,0
+20733,Old-Time / Historic,0
+20734,Old-Time / Historic,2
+20735,Old-Time / Historic,0
+20736,Old-Time / Historic,0
+20737,Old-Time / Historic,0
+20738,Old-Time / Historic,0
+20740,Old-Time / Historic,0
+20741,Old-Time / Historic,0
+20742,Old-Time / Historic,0
+20743,Old-Time / Historic,0
+20744,Old-Time / Historic,2
+20745,Old-Time / Historic,0
+20746,Old-Time / Historic,0
+20747,Old-Time / Historic,0
+20748,Old-Time / Historic,0
+20749,Old-Time / Historic,0
+20750,Old-Time / Historic,0
+20751,Old-Time / Historic,0
+21129,Old-Time / Historic,0
+21130,Old-Time / Historic,0
+21131,Old-Time / Historic,2
+21132,Old-Time / Historic,0
+21133,Old-Time / Historic,0
+21134,Old-Time / Historic,0
+21135,Old-Time / Historic,0
+21136,Old-Time / Historic,0
+21137,Old-Time / Historic,0
+21138,Old-Time / Historic,0
+21345,Electronic,3
+21349,Electronic,3
+21351,Electronic,3
+21352,Electronic,3
+21353,Electronic,3
+21414,Electronic,3
+21415,Electronic,3
+21416,Electronic,3
+21418,Electronic,3
+21419,Electronic,1
+21420,Electronic,3
+21422,Electronic,1
+21423,Electronic,1
+21424,Electronic,3
+21426,Electronic,3
+21522,Rock,2
+21678,Experimental,2
+21679,Electronic,3
+21680,Electronic,3
+21682,Electronic,2
+21683,Electronic,3
+21689,Electronic,3
+21695,Pop,2
+21697,Electronic,3
+21701,Electronic,3
+21707,Folk,0
+21839,Spoken,0
+21912,Experimental,0
+21991,Old-Time / Historic,0
+22031,Rock,3
+22032,Rock,2
+22033,Rock,1
+22048,Rock,2
+22049,Rock,1
+22050,Rock,2
+22100,Rock,2
+22104,Rock,1
+22110,Rock,2
+22113,Rock,2
+22116,Rock,2
+22129,Experimental,0
+22130,Experimental,0
+22131,Experimental,1
+22132,Experimental,0
+22152,Rock,2
+22562,Rock,2
+22596,Rock,2
+22597,Rock,2
+22598,Rock,2
+22599,Rock,1
+22601,Rock,1
+22602,Rock,1
+22603,Rock,1
+23329,Experimental,3
+23448,Electronic,3
+23449,Electronic,3
+23450,Electronic,3
+23451,Electronic,3
+23452,Electronic,3
+23453,Electronic,3
+23454,Electronic,3
+23455,Electronic,3
+23456,Electronic,3
+23457,Electronic,1
+23458,Electronic,3
+23459,Electronic,3
+23460,Electronic,3
+23461,Electronic,3
+23764,Electronic,0
+23765,Electronic,0
+23766,Electronic,0
+24544,Old-Time / Historic,0
+24545,Old-Time / Historic,0
+24546,Old-Time / Historic,0
+24547,Old-Time / Historic,0
+24548,Old-Time / Historic,2
+24549,Old-Time / Historic,0
+24550,Old-Time / Historic,0
+24551,Old-Time / Historic,0
+24552,Old-Time / Historic,0
+24553,Old-Time / Historic,0
+24554,Old-Time / Historic,0
+24555,Old-Time / Historic,0
+24831,Classical,0
+24832,Classical,0
+24843,Electronic,3
+24844,Electronic,1
+25066,Electronic,3
+25140,Old-Time / Historic,0
+25142,Old-Time / Historic,0
+25143,Old-Time / Historic,0
+25144,Old-Time / Historic,0
+25145,Old-Time / Historic,0
+25147,Old-Time / Historic,0
+25148,Old-Time / Historic,0
+25149,Old-Time / Historic,0
+25150,Old-Time / Historic,0
+25151,Old-Time / Historic,2
+25152,Old-Time / Historic,0
+25153,Old-Time / Historic,0
+25154,Old-Time / Historic,0
+25168,Old-Time / Historic,0
+25170,Old-Time / Historic,0
+25172,Old-Time / Historic,0
+25177,Old-Time / Historic,0
+25178,Old-Time / Historic,0
+25179,Old-Time / Historic,0
+26062,Electronic,0
+26064,Electronic,0
+26065,Electronic,2
+26181,Electronic,3
+26182,Electronic,3
+26183,Electronic,3
+26184,Electronic,3
+26186,Electronic,3
+26187,Electronic,3
+26429,Electronic,2
+26430,Electronic,2
+26431,Electronic,2
+26432,Electronic,1
+26433,Electronic,3
+26434,Electronic,3
+26435,Electronic,0
+26437,Electronic,3
+26440,Electronic,2
+27841,Electronic,3
+27842,Electronic,2
+28065,Rock,1
+28066,Rock,1
+28067,Rock,1
+28068,Rock,2
+28069,Rock,1
+28070,Rock,2
+28071,Rock,2
+28072,Rock,1
+28241,Experimental,3
+28499,Experimental,2
+28571,Experimental,0
+28577,Experimental,0
+28578,Experimental,0
+29465,Experimental,2
+29466,Experimental,2
+29625,Electronic,3
+29626,Electronic,3
+29627,Electronic,3
+29628,Electronic,3
+29807,Rock,0
+29808,Rock,2
+29809,Rock,2
+29810,Rock,1
+29811,Rock,2
+29813,Rock,1
+29814,Rock,2
+29838,Rock,1
+29839,Rock,1
+29840,Rock,1
+29841,Rock,1
+31040,Electronic,3
+31041,Electronic,3
+31042,Electronic,0
+31043,Electronic,0
+31044,Electronic,3
+31119,Old-Time / Historic,0
+31120,Old-Time / Historic,0
+31121,Old-Time / Historic,2
+31122,Old-Time / Historic,0
+31126,Old-Time / Historic,0
+31127,Old-Time / Historic,2
+31128,Old-Time / Historic,0
+31129,Old-Time / Historic,0
+31130,Old-Time / Historic,0
+31131,Old-Time / Historic,0
+31132,Old-Time / Historic,0
+31133,Old-Time / Historic,0
+31134,Old-Time / Historic,0
+31135,Old-Time / Historic,2
+31136,Old-Time / Historic,0
+31143,Old-Time / Historic,0
+31144,Old-Time / Historic,0
+31145,Old-Time / Historic,0
+31146,Old-Time / Historic,0
+31147,Old-Time / Historic,0
+31148,Old-Time / Historic,0
+31149,Old-Time / Historic,0
+31150,Old-Time / Historic,0
+31154,Hip-Hop,3
+31160,Rock,3
+31165,International,3
+31561,Electronic,2
+31562,Electronic,0
+31565,Electronic,2
+31566,Electronic,2
+31898,Experimental,1
+31904,Experimental,1
+32448,Rock,2
+32449,Rock,2
+32451,Rock,2
+32457,Rock,2
+32677,Rock,2
+32678,Rock,1
+32679,Rock,2
+32680,Rock,1
+32681,Rock,2
+32682,Rock,2
+32683,Rock,2
+32684,Rock,2
+32685,Rock,2
+33533,Rock,3
+33534,Rock,2
+33535,Rock,0
+33536,Rock,3
+33537,Rock,2
+34348,Rock,2
+34352,Rock,1
+34360,Rock,2
+34642,Electronic,0
+34988,Electronic,0
+34989,Electronic,0
+35299,Electronic,3
+35443,Folk,0
+35462,Experimental,0
+36399,Rock,2
+36400,Rock,2
+37326,Rock,2
+37327,Rock,2
+37329,Rock,2
+37330,Rock,2
+37331,Rock,2
+37630,Rock,1
+37637,Rock,1
+37925,Electronic,1
+37927,Electronic,3
+37928,Electronic,3
+37929,Electronic,3
+37930,Electronic,3
+37931,Electronic,3
+37934,Electronic,3
+37935,Electronic,3
+37937,Electronic,3
+37938,Electronic,3
+38324,Rock,3
+38325,Rock,3
+38361,Folk,2
+38362,Folk,2
+38363,Folk,2
+38364,Folk,2
+38461,Spoken,3
+38552,Rock,2
+38666,Electronic,1
+38668,Electronic,3
+38669,Electronic,3
+38670,Electronic,2
+38671,Electronic,3
+38672,Electronic,3
+38673,Electronic,3
+38674,Electronic,3
+38675,Electronic,3
+38678,Electronic,3
+38679,Electronic,1
+38691,Electronic,2
+38692,Electronic,3
+39312,Experimental,2
+39314,Experimental,2
+39316,Experimental,2
+39317,Experimental,2
+39318,Experimental,2
+39984,Electronic,2
+39985,Electronic,0
+39987,Electronic,2
+39988,Electronic,2
+39993,Electronic,2
+39996,Electronic,0
+39997,Electronic,0
+40984,Rock,1
+41076,Electronic,3
+41077,Electronic,3
+41078,Electronic,3
+41079,Electronic,3
+41088,Electronic,3
+41089,Electronic,3
+41090,Electronic,3
+41091,Electronic,3
+41092,Electronic,3
+41093,Electronic,1
+41191,Folk,0
+41192,Folk,0
+41863,Rock,2
+41864,Rock,2
+41865,Rock,1
+41866,Rock,2
+41867,Rock,0
+41868,Rock,3
+41869,Rock,2
+41870,Electronic,1
+42269,Pop,3
+42276,Pop,0
+42431,Rock,2
+42432,Rock,0
+42433,Rock,0
+42434,Rock,2
+42435,Rock,0
+42436,Rock,0
+42798,Experimental,1
+42799,Rock,2
+42800,Rock,1
+42801,Rock,1
+42802,Rock,1
+42806,Rock,1
+42807,Rock,1
+42810,Rock,1
+42841,Rock,1
+42842,Rock,2
+42844,Rock,2
+42846,Rock,3
+42847,Rock,2
+42848,Rock,2
+42850,Rock,2
+42851,Rock,3
+42852,Rock,2
+42861,Rock,2
+42863,Rock,2
+42864,Rock,2
+42865,Rock,0
+42866,Rock,1
+42920,Rock,2
+43509,Rock,2
+43511,Rock,2
+44132,Rock,2
+44194,Rock,1
+44195,Rock,2
+44196,Rock,1
+44197,Rock,1
+44198,Rock,2
+44199,Rock,2
+44200,Rock,3
+44201,Rock,1
+44202,Rock,1
+44203,Rock,1
+44204,Rock,1
+44205,Rock,1
+44206,Rock,1
+44207,Rock,2
+44231,Rock,3
+44863,Experimental,2
+44916,Rock,1
+44917,Rock,2
+44918,Rock,1
+44919,Rock,2
+44920,Rock,2
+44921,Rock,2
+45016,Rock,2
+45018,Rock,2
+45021,Rock,1
+45022,Rock,1
+45025,Rock,1
+45027,Rock,1
+45028,Rock,1
+45362,Rock,0
+45363,Rock,0
+45364,Rock,2
+45365,Rock,2
+45366,Rock,2
+45610,Electronic,3
+45611,Electronic,3
+45612,Electronic,3
+45613,Electronic,3
+45614,Electronic,3
+45615,Electronic,3
+45616,Electronic,3
+45617,Electronic,3
+45618,Electronic,3
+45619,Electronic,3
+45620,Electronic,2
+46135,Rock,2
+46136,Rock,2
+46137,Rock,2
+47024,Rock,2
+47025,Rock,2
+47026,Rock,2
+47027,Rock,1
+47028,Rock,2
+47029,Rock,2
+47030,Rock,1
+47031,Rock,1
+47032,Rock,2
+47068,Electronic,3
+47069,Electronic,3
+47070,Electronic,2
+47071,Electronic,0
+47072,Electronic,0
+47073,Electronic,0
+47074,Electronic,2
+47075,Electronic,0
+47076,Electronic,2
+47077,Electronic,0
+47499,Rock,1
+47500,Rock,1
+47501,Rock,1
+47502,Rock,2
+47503,Rock,1
+47504,Jazz,0
+47505,Jazz,2
+47520,Rock,2
+47521,Rock,2
+47522,Rock,2
+47523,Rock,2
+47524,Rock,2
+47525,Rock,2
+47526,Rock,2
+47594,Rock,2
+47595,Rock,2
+47596,Rock,2
+47597,Rock,2
+47598,Rock,2
+47600,Rock,2
+47601,Rock,2
+47672,Experimental,0
+47675,Experimental,2
+47745,Jazz,1
+47746,Jazz,1
+47755,Jazz,1
+48042,Experimental,0
+48043,Experimental,0
+48044,Experimental,0
+48046,Experimental,0
+48064,Rock,1
+48067,Rock,1
+48069,Rock,2
+48070,Rock,1
+48553,Electronic,3
+48554,Electronic,0
+48555,Electronic,2
+48556,Electronic,1
+48557,Electronic,3
+48558,Electronic,3
+48559,Electronic,2
+48560,Electronic,0
+49061,Experimental,1
+49062,Experimental,1
+49064,Experimental,1
+49066,Experimental,3
+49067,Experimental,2
+49068,Experimental,2
+49070,Experimental,1
+49071,Experimental,3
+49072,Experimental,3
+49073,Experimental,1
+49099,Rock,2
+49103,Rock,2
+49106,Rock,2
+49407,Experimental,3
+49408,Experimental,3
+49427,Rock,2
+49431,Rock,2
+49433,Rock,2
+50137,Old-Time / Historic,2
+50276,Folk,2
+50283,International,3
+50284,Rock,3
+50288,Electronic,0
+50291,Jazz,2
+50752,Rock,1
+50753,Rock,1
+50754,Rock,1
+51296,Experimental,1
+51297,Experimental,2
+51299,Experimental,0
+51301,Experimental,2
+51303,Experimental,2
+51304,Experimental,3
+51305,Experimental,2
+51678,Electronic,3
+52484,Rock,2
+52485,Rock,2
+52487,Rock,2
+52489,Rock,2
+52493,Rock,2
+52945,Folk,0
+52946,Folk,0
+52947,Folk,0
+52948,Folk,0
+52949,Spoken,3
+52950,Folk,0
+52951,Folk,0
+52952,Spoken,2
+52953,Folk,0
+52954,Folk,0
+52955,Folk,0
+53591,Pop,2
+53592,Pop,2
+53715,Rock,2
+53746,Rock,0
+53749,Rock,0
+54217,Experimental,1
+54294,Folk,0
+54295,Folk,0
+54296,Folk,0
+54297,Folk,0
+54332,Rock,2
+54333,Rock,2
+54335,Electronic,3
+54337,Electronic,2
+54475,International,0
+54476,International,3
+54477,International,3
+54478,International,3
+54479,International,3
+54480,International,3
+54481,International,3
+54482,International,3
+54483,Electronic,2
+54485,Electronic,1
+54486,Electronic,1
+54487,Electronic,1
+54488,Electronic,1
+54489,Electronic,1
+54490,Electronic,1
+54491,Electronic,1
+54492,Electronic,1
+54493,Electronic,1
+54496,Experimental,0
+54831,Electronic,0
+54833,Electronic,3
+54834,Electronic,0
+54835,Electronic,0
+54836,Electronic,0
+54837,Electronic,2
+54838,Electronic,3
+54839,Electronic,3
+54841,Electronic,3
+54848,Jazz,0
+54849,Jazz,3
+54850,Jazz,2
+55479,Experimental,1
+55480,Experimental,1
+55481,Experimental,2
+56034,Electronic,3
+56036,Electronic,3
+56048,Rock,2
+56049,Rock,2
+56050,Rock,2
+56051,Rock,2
+56053,Rock,2
+56273,Pop,2
+56274,Pop,2
+56275,Pop,2
+56560,Classical,0
+56567,Classical,0
+56575,Classical,0
+56869,Electronic,0
+56870,Electronic,2
+56871,Electronic,3
+56872,Electronic,3
+56873,Electronic,1
+57351,Experimental,2
+57352,Experimental,1
+57355,Experimental,2
+57358,Experimental,0
+57359,Experimental,1
+57360,Experimental,0
+57371,Instrumental,1
+57435,Pop,2
+57437,Pop,0
+57439,Pop,2
+57470,Rock,1
+57477,Rock,1
+57601,Experimental,2
+57819,Hip-Hop,3
+57820,Hip-Hop,3
+57821,Hip-Hop,0
+57822,Hip-Hop,3
+57823,Hip-Hop,0
+57936,Experimental,0
+57937,Experimental,1
+57938,Experimental,3
+59367,Rock,1
+59368,Rock,1
+59369,Rock,2
+59370,Rock,2
+59371,Rock,1
+59372,Rock,1
+59373,Rock,1
+59374,Rock,2
+59502,Old-Time / Historic,0
+59503,Old-Time / Historic,0
+59504,Old-Time / Historic,0
+59505,Old-Time / Historic,0
+59506,Old-Time / Historic,0
+59507,Old-Time / Historic,0
+59508,Old-Time / Historic,0
+59510,Old-Time / Historic,0
+59511,Old-Time / Historic,0
+59512,Old-Time / Historic,0
+59513,Old-Time / Historic,0
+59514,Old-Time / Historic,0
+59668,International,0
+59669,International,2
+59670,International,0
+59671,International,0
+59673,International,0
+59675,International,2
+59676,International,0
+59677,International,0
+59930,Experimental,0
+60276,Old-Time / Historic,0
+60277,Old-Time / Historic,0
+60278,Old-Time / Historic,0
+60279,Old-Time / Historic,0
+60280,Old-Time / Historic,0
+60281,Old-Time / Historic,0
+60282,Old-Time / Historic,0
+60283,Old-Time / Historic,0
+60284,Old-Time / Historic,0
+60285,Old-Time / Historic,0
+60286,Old-Time / Historic,0
+60287,Old-Time / Historic,0
+60880,Rock,1
+60881,Rock,1
+60882,Rock,1
+60883,Rock,1
+60884,Rock,1
+60885,Rock,2
+60889,Rock,2
+60890,Rock,1
+60891,Rock,1
+60892,Rock,1
+60893,Rock,2
+60894,Rock,1
+60895,Rock,1
+60896,Rock,1
+60897,Rock,1
+60898,Rock,2
+60996,Rock,2
+61002,Rock,2
+61005,Rock,2
+61519,Rock,1
+61564,Electronic,3
+61565,Electronic,3
+61566,Electronic,3
+61567,Electronic,3
+61568,Electronic,3
+61569,Electronic,1
+62867,Rock,2
+62872,Rock,3
+62873,Rock,2
+62874,Rock,2
+63473,Rock,2
+63474,Spoken,3
+63475,Rock,2
+63476,Spoken,3
+63477,Rock,2
+63478,Spoken,3
+63479,Rock,0
+63480,Spoken,3
+63481,Rock,2
+63593,Rock,0
+63594,Rock,1
+63595,Rock,1
+63597,Rock,1
+64091,Experimental,0
+64463,Rock,1
+64477,Rock,1
+64478,Rock,1
+64479,Rock,1
+64495,Rock,2
+64497,Rock,1
+64499,Rock,3
+64832,Pop,2
+64834,Pop,2
+64836,Pop,2
+64840,Pop,2
+64841,Pop,2
+65090,Experimental,0
+66403,Rock,3
+66404,Rock,2
+66405,Rock,2
+66534,Rock,1
+66535,Rock,1
+66536,Rock,1
+66537,Rock,1
+66538,Rock,1
+66539,Rock,2
+66782,Pop,2
+66783,Pop,0
+66868,Electronic,1
+66869,Electronic,2
+66870,Electronic,2
+66871,Electronic,2
+66872,Electronic,1
+66873,Electronic,3
+66874,Electronic,2
+66875,Electronic,2
+66876,Electronic,1
+66877,Electronic,1
+66878,Electronic,3
+66879,Electronic,2
+66880,Electronic,2
+66881,Electronic,2
+66882,Electronic,2
+66884,Electronic,2
+66885,Electronic,2
+66886,Electronic,2
+66887,Electronic,2
+66888,Electronic,2
+67163,Rock,2
+67308,Electronic,1
+67309,Electronic,1
+67310,Electronic,1
+67311,Electronic,3
+67496,Experimental,1
+67500,Experimental,1
+67545,Electronic,3
+67546,Electronic,3
+68340,Jazz,0
+68341,Jazz,0
+68342,Jazz,0
+68343,Jazz,0
+68344,Jazz,0
+68680,Electronic,2
+68681,Electronic,3
+68682,Electronic,0
+68683,Electronic,0
+68837,Folk,0
+68838,Folk,0
+68839,Folk,0
+68840,Folk,0
+68841,Folk,0
+68842,Folk,0
+68843,Folk,0
+68844,Folk,0
+68902,Rock,2
+68906,Rock,2
+68907,Rock,2
+69181,Pop,2
+69182,Pop,2
+69188,Pop,0
+69636,Rock,2
+69638,Rock,1
+69646,Rock,0
+69647,Rock,2
+69769,Rock,2
+69933,Rock,2
+69938,Rock,1
+69939,Rock,1
+70190,Rock,3
+70191,Rock,2
+70193,Rock,1
+70194,Rock,1
+70198,Rock,1
+70199,Rock,1
+70201,Rock,1
+70202,Rock,1
+70204,Rock,1
+70205,Rock,1
+70423,Pop,2
+70424,Pop,2
+70425,Pop,2
+70426,Pop,2
+70441,Classical,0
+70442,Classical,0
+70443,Classical,0
+70444,Classical,0
+70445,Classical,0
+70446,Classical,0
+70447,Classical,0
+70448,Classical,0
+70449,Classical,0
+70450,Classical,0
+70451,Classical,0
+70452,Classical,0
+70454,Classical,2
+70455,Classical,0
+70456,Classical,0
+70457,Classical,0
+70458,Classical,0
+70459,Classical,0
+70460,Classical,0
+70461,Classical,0
+70462,Classical,0
+70463,Classical,0
+70464,Classical,0
+70465,Classical,0
+70466,Classical,0
+70467,Classical,0
+70468,Classical,0
+70469,Classical,0
+70470,Classical,0
+70471,Classical,0
+70472,Classical,0
+70509,Electronic,0
+70512,Electronic,3
+70513,Electronic,3
+71709,Pop,1
+71711,Rock,1
+71714,Rock,2
+71857,Classical,0
+71858,Classical,0
+72046,Folk,0
+72047,Folk,2
+72050,Folk,2
+72051,Folk,2
+72053,Folk,0
+72054,Folk,0
+72055,Folk,2
+72056,Folk,2
+72057,Folk,0
+72058,Folk,2
+72059,Folk,3
+72146,Experimental,1
+72147,Experimental,1
+72148,Experimental,1
+72228,Electronic,2
+72229,Electronic,3
+72230,Electronic,3
+72231,Electronic,3
+72232,Electronic,3
+72233,Electronic,3
+73169,Folk,0
+73170,Folk,0
+73171,Folk,0
+73172,Folk,0
+73174,Folk,0
+73175,Folk,0
+73501,Country,2
+73502,Country,2
+73503,Country,1
+73504,Country,1
+73505,Country,1
+73506,Country,1
+73507,Country,1
+73508,Country,1
+73509,Country,1
+74233,Rock,0
+74235,Rock,2
+74237,Rock,2
+74482,Experimental,0
+74519,Rock,0
+74524,Rock,2
+74557,Electronic,3
+74558,Electronic,2
+74559,Electronic,2
+74560,Electronic,3
+74561,Electronic,3
+74562,Electronic,2
+74706,Rock,2
+74882,Rock,2
+74886,Rock,2
+74887,Rock,2
+75667,Experimental,2
+75692,Pop,2
+76080,Electronic,3
+76081,Electronic,3
+76082,Electronic,3
+76084,Electronic,3
+76085,Electronic,3
+78096,Instrumental,0
+78100,Instrumental,2
+78213,Folk,0
+79567,Rock,2
+79568,Rock,2
+79569,Rock,2
+79570,Rock,2
+79571,Rock,2
+79572,Rock,2
+79573,Rock,1
+79574,Rock,2
+79575,Rock,1
+80287,Hip-Hop,3
+80290,Hip-Hop,3
+80293,Hip-Hop,3
+80294,Hip-Hop,3
+80295,Hip-Hop,3
+80296,Hip-Hop,3
+80785,Electronic,3
+80786,Electronic,3
+80787,Electronic,3
+80788,Electronic,0
+80789,Electronic,3
+80790,Electronic,3
+80791,Electronic,3
+80792,Electronic,3
+80793,Electronic,3
+80901,Electronic,0
+80903,Electronic,0
+80904,Electronic,2
+80905,Electronic,2
+81192,Electronic,3
+81193,Electronic,3
+81194,Electronic,3
+81195,Electronic,3
+82031,Experimental,0
+82049,Experimental,1
+82052,Experimental,0
+82462,Rock,2
+82463,Rock,2
+82464,Rock,2
+82465,Rock,2
+82466,Rock,2
+82467,Rock,2
+82468,Rock,2
+82469,Rock,2
+82522,Rock,2
+82523,Rock,2
+82525,Rock,2
+83821,Rock,1
+83823,Rock,2
+83825,Rock,1
+83826,Rock,1
+83828,Rock,1
+83829,Rock,2
+83830,Rock,2
+83967,Rock,3
+83968,Rock,1
+83969,Rock,3
+83970,Rock,1
+83971,Rock,1
+84009,Folk,0
+84012,Folk,0
+84014,Folk,0
+84261,Electronic,3
+84262,Electronic,3
+84263,Electronic,3
+84264,Electronic,3
+85240,Rock,2
+85494,Experimental,2
+85499,Experimental,3
+85506,Experimental,1
+85508,Experimental,2
+85701,Rock,1
+85702,Rock,1
+85705,Rock,2
+85706,Rock,2
+85707,Rock,1
+85708,Rock,1
+85709,Rock,2
+85841,Electronic,3
+85843,Electronic,3
+85963,Folk,0
+85965,Folk,0
+85966,Folk,2
+85967,Folk,0
+86441,Rock,2
+86442,Rock,2
+86443,Rock,2
+86481,Instrumental,0
+86482,Instrumental,0
+86483,Instrumental,0
+86484,Instrumental,0
+86485,Instrumental,0
+86486,Instrumental,0
+86487,Instrumental,0
+86521,Experimental,2
+87700,Rock,1
+87701,Rock,1
+87703,Rock,1
+87704,Rock,1
+88935,Rock,1
+88936,Rock,1
+88937,Rock,2
+88938,Rock,2
+88939,Rock,1
+88940,Rock,2
+89482,Folk,2
+89484,Folk,0
+89485,Folk,0
+89486,Folk,2
+90847,Experimental,0
+90852,Experimental,1
+91156,Classical,0
+91228,Folk,0
+91235,Folk,0
+91236,Folk,0
+91237,Folk,0
+91238,Folk,2
+91562,Electronic,3
+91563,Electronic,1
+91564,Electronic,3
+91565,Electronic,3
+91566,Electronic,3
+91567,Electronic,1
+91568,Electronic,1
+91569,Electronic,3
+91570,Electronic,3
+91571,Electronic,3
+91572,Electronic,3
+92366,Electronic,3
+92367,Electronic,3
+92368,Electronic,3
+92369,Electronic,2
+92370,Electronic,3
+92371,Electronic,3
+92372,Electronic,0
+92373,Electronic,3
+92374,Electronic,3
+92493,Rock,2
+92498,Rock,2
+94857,Rock,1
+95211,Electronic,0
+95212,Electronic,0
+95213,Electronic,0
+95214,Electronic,0
+95215,Electronic,0
+95216,Electronic,3
+95217,Electronic,3
+95218,Electronic,3
+95219,Electronic,1
+95220,Electronic,3
+95221,Electronic,3
+95222,Electronic,1
+95223,Electronic,3
+95224,Electronic,3
+96399,Rock,3
+96400,Rock,3
+96401,Rock,3
+96402,Rock,3
+96403,Rock,2
+97053,Experimental,2
+97286,Rock,1
+98077,Rock,3
+98482,Electronic,2
+98484,Electronic,3
+98485,Electronic,3
+98486,Electronic,3
+98487,Electronic,3
+98488,Electronic,3
+98489,Electronic,0
+98490,Electronic,3
+98491,Electronic,2
+98665,International,0
+98666,International,0
+100831,Electronic,3
+100834,Electronic,2
+100835,Electronic,3
+100837,Electronic,3
+101078,Rock,2
+101081,Rock,2
+101083,Rock,2
+101101,Rock,2
+101104,Rock,0
+101107,Rock,2
+101109,Rock,2
+101928,Electronic,3
+101929,Electronic,3
+101930,Electronic,2
+102178,Rock,1
+102179,Rock,1
+102181,Rock,3
+102182,Rock,2
+102185,Rock,1
+102187,Rock,3
+102188,Rock,1
+102189,Rock,1
+102190,Rock,1
+104434,Experimental,0
+104625,Experimental,1
+104627,Experimental,1
+105699,Electronic,3
+105700,Electronic,0
+105701,Electronic,0
+105703,Electronic,0
+105869,Experimental,1
+106274,Rock,3
+106275,Rock,3
+106276,Rock,3
+106277,Rock,3
+106443,Folk,2
+106455,Folk,0
+106456,Folk,2
+106457,Folk,2
+106458,Folk,2
+106502,Instrumental,0
+106768,Electronic,3
+106769,Electronic,3
+106770,Electronic,1
+106771,Electronic,3
+106772,Electronic,0
+106773,Electronic,3
+106774,Electronic,3
+106933,Folk,0
+106934,Folk,0
+106937,Folk,0
+106939,Folk,0
+106940,Folk,0
+106946,Rock,2
+106947,Rock,2
+106948,Rock,2
+106949,Rock,2
+106950,Rock,2
+106951,Rock,2
+106952,Rock,1
+108047,Experimental,2
+108048,Experimental,2
+108049,Experimental,2
+108050,Experimental,0
+108052,Experimental,2
+108053,Experimental,3
+108058,Experimental,2
+108059,Experimental,0
+108060,Experimental,0
+108075,Rock,2
+108076,Rock,2
+108077,Rock,2
+108078,Rock,2
+108079,Rock,2
+108906,Instrumental,0
+108987,Rock,2
+108988,Rock,2
+108989,Rock,2
+108990,Rock,1
+108991,Rock,2
+108992,Rock,2
+109189,Instrumental,2
+109191,Instrumental,3
+109535,Electronic,3
+109536,Electronic,3
+109537,Electronic,3
+109538,Electronic,3
+109921,Electronic,3
+109922,Electronic,3
+109923,Electronic,3
+109924,Electronic,3
+109925,Electronic,3
+110169,Folk,2
+110170,Folk,0
+110171,Folk,0
+110172,Folk,0
+110384,Folk,0
+110418,Rock,2
+110422,Rock,1
+110424,Rock,2
+110425,Rock,1
+110426,Rock,3
+111216,Experimental,3
+111217,Experimental,2
+111219,Experimental,0
+111306,Rock,1
+111307,Rock,1
+111308,Rock,1
+111309,Rock,1
+111310,Rock,1
+111311,Rock,1
+111312,Rock,1
+111335,Rock,1
+111409,Electronic,3
+111410,Electronic,3
+111411,Electronic,3
+111412,Electronic,3
+111413,Electronic,3
+111414,Electronic,3
+111415,Electronic,3
+111416,Electronic,3
+111658,Rock,2
+112020,Rock,2
+112340,Rock,2
+112343,Rock,3
+112344,Rock,2
+112347,Rock,0
+112348,Rock,2
+112349,Rock,2
+112350,Rock,2
+112523,Rock,1
+112524,Rock,1
+112525,Rock,1
+112526,Rock,1
+112527,Rock,1
+112528,Rock,1
+112529,Rock,3
+112790,Experimental,3
+112792,Experimental,2
+112793,Experimental,0
+113038,Experimental,3
+113039,Experimental,3
+113040,Experimental,1
+113137,Rock,2
+113138,Rock,2
+113139,Rock,2
+113140,Rock,2
+113702,Experimental,2
+113750,Experimental,1
+114198,Rock,2
+114199,Rock,2
+114200,Rock,1
+114201,Rock,2
+114427,Rock,0
+114428,Rock,0
+114429,Rock,0
+114430,Rock,3
+114431,Rock,2
+114544,Electronic,3
+114545,Electronic,2
+114556,Electronic,3
+114558,Electronic,3
+114559,Electronic,3
+114936,International,0
+114937,International,0
+114938,International,0
+114939,International,0
+114940,International,0
+114941,International,0
+114942,International,0
+114943,International,0
+116411,Classical,0
+116412,Classical,0
+116702,Folk,0
+116704,Folk,0
+116706,Folk,0
+116707,Folk,0
+117462,Rock,2
+117463,Rock,1
+117464,Rock,2
+117465,Rock,2
+117466,Rock,2
+117627,Folk,2
+117628,Folk,2
+117629,Folk,2
+117630,Folk,0
+117631,Folk,2
+117632,Folk,2
+118064,Instrumental,0
+118065,Instrumental,0
+118066,Instrumental,3
+118067,Instrumental,0
+118068,Instrumental,0
+118257,Experimental,1
+118261,Experimental,3
+118279,Rock,2
+118618,Instrumental,0
+119245,Rock,2
+119246,Rock,1
+119247,Rock,2
+119248,Rock,2
+119249,Rock,1
+119250,Rock,2
+119251,Rock,1
+119252,Rock,3
+119253,Rock,1
+119254,Rock,3
+119255,Rock,2
+119256,Rock,0
+119257,Rock,3
+119548,Spoken,2
+119549,Spoken,3
+119551,Spoken,2
+119552,Spoken,3
+119553,Spoken,2
+119554,Spoken,2
+119727,Experimental,0
+119922,Rock,2
+120506,Electronic,1
+120511,Electronic,2
+120542,Rock,1
+120547,Rock,1
+120548,Rock,1
+120769,Instrumental,0
+120770,Instrumental,2
+120771,Instrumental,2
+120772,Instrumental,0
+120773,Instrumental,2
+120774,Instrumental,2
+120775,Instrumental,2
+120776,Instrumental,0
+120777,Instrumental,2
+120778,Instrumental,2
+121204,Electronic,3
+121205,Electronic,0
+121206,Electronic,2
+121207,Electronic,3
+121208,Electronic,3
+121209,Electronic,3
+121210,Electronic,3
+121211,Electronic,3
+121212,Electronic,3
+121213,Electronic,0
+121214,Electronic,3
+121215,Electronic,3
+121216,Electronic,0
+121217,Electronic,3
+121472,Instrumental,0
+121473,Instrumental,2
+121474,Instrumental,0
+121475,Instrumental,0
+122373,Rock,2
+122374,Rock,2
+122375,Rock,1
+122377,Rock,1
+122378,Rock,2
+122379,Rock,2
+122380,Rock,1
+122381,Rock,2
+122382,Rock,1
+122538,Old-Time / Historic,0
+122539,Old-Time / Historic,0
+122540,Old-Time / Historic,0
+122541,Old-Time / Historic,0
+122542,Old-Time / Historic,0
+122543,Old-Time / Historic,0
+122544,Old-Time / Historic,0
+122545,Old-Time / Historic,0
+122609,Rock,1
+122610,Rock,1
+122611,Rock,2
+122612,Rock,1
+122613,Rock,1
+122644,Instrumental,3
+122645,Instrumental,0
+122646,Instrumental,2
+122647,Instrumental,2
+122648,Instrumental,2
+122649,Instrumental,2
+122650,Instrumental,2
+122651,Instrumental,2
+122654,Instrumental,1
+122699,Old-Time / Historic,0
+122700,Old-Time / Historic,0
+122701,Old-Time / Historic,0
+122702,Old-Time / Historic,0
+122703,Old-Time / Historic,0
+122704,Old-Time / Historic,0
+122705,Old-Time / Historic,0
+122706,Old-Time / Historic,0
+122707,Old-Time / Historic,0
+122709,Old-Time / Historic,0
+122710,Old-Time / Historic,2
+122711,Old-Time / Historic,0
+122712,Old-Time / Historic,2
+122713,Old-Time / Historic,0
+122714,Old-Time / Historic,0
+122715,Old-Time / Historic,0
+122716,Old-Time / Historic,0
+122723,Old-Time / Historic,0
+122724,Old-Time / Historic,0
+122725,Old-Time / Historic,0
+122726,Old-Time / Historic,0
+122727,Old-Time / Historic,0
+122728,Old-Time / Historic,0
+122729,Old-Time / Historic,0
+122730,Old-Time / Historic,0
+122731,Old-Time / Historic,0
+122732,Old-Time / Historic,2
+122733,Old-Time / Historic,0
+122734,Old-Time / Historic,0
+122735,Old-Time / Historic,0
+122736,Old-Time / Historic,2
+122871,Old-Time / Historic,0
+122872,Old-Time / Historic,0
+122873,Old-Time / Historic,0
+122874,Old-Time / Historic,0
+122875,Old-Time / Historic,0
+122876,Old-Time / Historic,0
+122880,Old-Time / Historic,0
+122881,Old-Time / Historic,0
+122882,Old-Time / Historic,0
+122883,Old-Time / Historic,0
+122884,Old-Time / Historic,0
+122895,Old-Time / Historic,0
+122896,Old-Time / Historic,0
+122897,Old-Time / Historic,2
+122898,Old-Time / Historic,0
+122899,Old-Time / Historic,0
+122904,Old-Time / Historic,0
+122905,Old-Time / Historic,0
+122906,Old-Time / Historic,0
+122907,Old-Time / Historic,0
+122908,Old-Time / Historic,0
+122909,Old-Time / Historic,0
+123370,Old-Time / Historic,0
+123371,Old-Time / Historic,0
+123372,Old-Time / Historic,0
+123373,Old-Time / Historic,0
+123375,Old-Time / Historic,0
+123376,Old-Time / Historic,0
+123377,Old-Time / Historic,0
+123378,Old-Time / Historic,0
+123379,Old-Time / Historic,0
+123380,Old-Time / Historic,0
+123381,Old-Time / Historic,0
+123382,Old-Time / Historic,0
+123383,Old-Time / Historic,0
+123389,Rock,1
+123391,Rock,1
+123392,Rock,1
+123393,Rock,1
+123678,Old-Time / Historic,0
+123679,Old-Time / Historic,0
+123680,Old-Time / Historic,0
+123681,Old-Time / Historic,0
+123682,Old-Time / Historic,0
+123683,Old-Time / Historic,0
+123684,Old-Time / Historic,0
+123706,Rock,1
+123718,Rock,2
+123719,Rock,2
+123720,Rock,2
+123821,Rock,2
+123822,Rock,2
+123823,Rock,0
+123824,Rock,2
+123908,Rock,2
+123909,Rock,1
+123912,Rock,2
+123913,Rock,2
+123914,Electronic,1
+123915,Electronic,2
+123916,Electronic,0
+123917,Electronic,0
+123918,Electronic,0
+123919,Electronic,2
+123920,Electronic,2
+123921,Electronic,2
+123964,Hip-Hop,3
+123965,Hip-Hop,3
+123966,Hip-Hop,3
+123968,Hip-Hop,3
+123969,Hip-Hop,3
+123970,Hip-Hop,3
+123971,Hip-Hop,3
+123972,Hip-Hop,3
+123973,Hip-Hop,3
+123974,Hip-Hop,0
+123975,Hip-Hop,3
+123976,Hip-Hop,3
+123977,Hip-Hop,3
+123978,Hip-Hop,3
+123979,Hip-Hop,0
+123980,Hip-Hop,3
+124004,Rock,1
+124005,Rock,2
+124006,Rock,2
+124007,Rock,1
+124008,Rock,2
+124154,Experimental,0
+124396,Old-Time / Historic,0
+124397,Old-Time / Historic,0
+124398,Old-Time / Historic,0
+124399,Old-Time / Historic,2
+124400,Old-Time / Historic,0
+124401,Old-Time / Historic,2
+124402,Old-Time / Historic,0
+124403,Old-Time / Historic,0
+124404,Old-Time / Historic,0
+124405,Old-Time / Historic,0
+124406,Old-Time / Historic,0
+124407,Old-Time / Historic,0
+124412,Old-Time / Historic,0
+124413,Old-Time / Historic,0
+124414,Old-Time / Historic,0
+124415,Old-Time / Historic,0
+124416,Old-Time / Historic,0
+124417,Old-Time / Historic,0
+124418,Old-Time / Historic,0
+124419,Old-Time / Historic,0
+124420,Old-Time / Historic,0
+124421,Old-Time / Historic,0
+124422,Old-Time / Historic,0
+124423,Old-Time / Historic,0
+124509,Experimental,3
+125108,Old-Time / Historic,0
+125109,Old-Time / Historic,2
+125110,Old-Time / Historic,0
+125111,Old-Time / Historic,0
+125112,Old-Time / Historic,0
+125114,Old-Time / Historic,0
+125115,Old-Time / Historic,0
+125116,Old-Time / Historic,0
+125117,Old-Time / Historic,0
+125118,Old-Time / Historic,0
+125119,Old-Time / Historic,0
+126031,Rock,2
+126032,Rock,2
+126033,Rock,2
+126034,Rock,2
+126035,Rock,2
+126037,Rock,2
+126038,Rock,2
+126039,Rock,2
+126040,Rock,2
+126523,Rock,1
+126527,Rock,2
+126529,Rock,1
+126530,Rock,2
+126531,Rock,1
+126532,Rock,2
+126584,Instrumental,2
+126585,Instrumental,0
+126586,Instrumental,2
+126587,Instrumental,2
+126588,Instrumental,0
+126589,Instrumental,0
+126646,Instrumental,3
+126977,Folk,0
+126979,Folk,0
+127019,Soul-RnB,3
+127020,Soul-RnB,2
+127021,Soul-RnB,2
+127090,Electronic,1
+127091,Electronic,0
+127092,Electronic,0
+127093,Electronic,0
+127343,Electronic,3
+127344,Electronic,1
+127346,Electronic,3
+127347,Electronic,2
+127349,Electronic,3
+127350,Electronic,1
+127356,International,3
+127357,International,3
+127409,Rock,2
+127544,Rock,1
+127545,Rock,2
+127546,Rock,1
+127547,Rock,1
+127548,Rock,2
+127549,Rock,1
+127551,Rock,2
+127552,Rock,1
+127553,Rock,1
+127554,Rock,1
+127555,Rock,1
+127556,Rock,0
+127557,Rock,1
+127558,Rock,2
+127559,Rock,2
+127620,Pop,2
+127623,Pop,2
+127626,Pop,2
+127794,Rock,1
+127979,Rock,1
+128261,Rock,1
+128262,Rock,1
+128264,Rock,1
+128267,Rock,1
+128268,Rock,2
+128269,Rock,2
+128270,Rock,2
+128271,Rock,1
+128272,Rock,1
+128501,Rock,1
+129362,Pop,0
+129370,Pop,0
+129372,Pop,0
+129373,Pop,3
+129374,Pop,2
+129375,Pop,3
+129391,Pop,0
+129392,Pop,0
+129393,Pop,0
+129755,Rock,2
+129803,Rock,1
+129816,International,2
+129938,Rock,1
+129993,Rock,1
+129997,Rock,2
+130106,Rock,2
+130111,Rock,2
+130112,Rock,2
+130114,Rock,2
+130265,Pop,3
+130337,Rock,1
+130350,Rock,2
+130355,Rock,2
+130431,Hip-Hop,2
+130440,Hip-Hop,3
+130447,Hip-Hop,3
+130448,Hip-Hop,3
+130450,Hip-Hop,3
+130452,Hip-Hop,3
+130453,Hip-Hop,3
+130454,Hip-Hop,3
+130455,Hip-Hop,3
+130456,Hip-Hop,3
+130706,Hip-Hop,0
+130707,Hip-Hop,0
+130708,Hip-Hop,0
+130709,Hip-Hop,0
+130710,Hip-Hop,3
+130711,Hip-Hop,0
+130987,Rock,1
+131010,Hip-Hop,3
+131011,Hip-Hop,3
+131012,Hip-Hop,3
+131013,Hip-Hop,3
+131014,Hip-Hop,3
+131015,Hip-Hop,1
+131016,Hip-Hop,3
+131017,Hip-Hop,3
+131018,Hip-Hop,2
+131019,Hip-Hop,3
+131020,Hip-Hop,3
+131021,Hip-Hop,3
+131292,Rock,2
+131303,Rock,1
+131578,Rock,1
+131639,Rock,1
+131837,Instrumental,0
+131954,Old-Time / Historic,0
+131955,Old-Time / Historic,0
+131956,Old-Time / Historic,0
+131957,Old-Time / Historic,0
+131958,Old-Time / Historic,0
+131959,Old-Time / Historic,0
+131960,Old-Time / Historic,0
+131961,Old-Time / Historic,0
+131962,Old-Time / Historic,0
+131963,Old-Time / Historic,0
+131964,Old-Time / Historic,0
+132095,Rock,1
+132439,Electronic,0
+132440,Electronic,3
+132442,Electronic,3
+132443,Electronic,3
+132444,Electronic,2
+132445,Electronic,0
+132446,Electronic,3
+132447,Electronic,0
+132448,Electronic,0
+132449,Folk,0
+132450,Folk,0
+132451,Folk,0
+132452,Folk,0
+132453,Folk,0
+132454,Folk,2
+132455,Folk,0
+132456,Folk,0
+132515,Electronic,3
+132516,Electronic,3
+132517,Electronic,3
+132518,Electronic,3
+132519,Electronic,3
+132520,Electronic,3
+132521,Electronic,3
+132522,Electronic,3
+132523,Electronic,1
+132758,Rock,2
+132862,Rock,1
+133388,Rock,1
+133389,Rock,1
+133393,Rock,1
+133396,Rock,2
+133398,Rock,2
+133399,Rock,2
+133400,Rock,2
+133401,Rock,2
+133788,Folk,2
+133793,Folk,0
+133797,Folk,2
+133798,Folk,2
+133800,Folk,0
+133801,Folk,2
+133802,Folk,0
+133803,Folk,0
+133843,Rock,1
+134754,Electronic,3
+134755,Electronic,3
+134756,Electronic,3
+134757,Electronic,3
+134758,Electronic,3
+134759,Electronic,3
+134982,Classical,0
+134983,Classical,0
+134984,Classical,0
+134985,Classical,0
+136048,Rock,0
+136049,Rock,0
+136050,Rock,0
+136051,Rock,2
+136052,Rock,2
+136053,Rock,0
+136054,Rock,2
+136335,Electronic,2
+136336,Electronic,1
+136337,Electronic,2
+136338,Electronic,3
+136339,Electronic,3
+136340,Electronic,3
+136341,Electronic,2
+137539,Electronic,3
+137541,Electronic,3
+137542,Electronic,0
+138015,Folk,0
+138016,Folk,2
+138017,Folk,2
+138062,Pop,2
+138063,Pop,0
+138064,Pop,2
+138065,Pop,2
+138066,Pop,2
+138067,Pop,2
+138068,Pop,2
+138069,Pop,2
+138070,Pop,0
+138071,Pop,0
+138274,Rock,2
+138275,Rock,2
+138276,Rock,1
+138277,Rock,2
+138278,Rock,2
+138279,Rock,1
+138280,Rock,2
+138281,Rock,2
+138282,Rock,1
+139043,Pop,3
+139948,Electronic,3
+139949,Electronic,3
+139950,Electronic,3
+139951,Electronic,3
+139952,Electronic,3
+139953,Electronic,0
+139954,Electronic,2
+139996,Electronic,3
+139997,Electronic,3
+139998,Electronic,3
+139999,Electronic,3
+140000,Electronic,0
+140001,Electronic,3
+140002,Electronic,0
+140003,Electronic,3
+140004,Electronic,0
+140005,Electronic,3
+140383,Rock,1
+140922,Electronic,0
+140923,Electronic,3
+140924,Electronic,3
+140925,Electronic,3
+140926,Electronic,3
+140927,Electronic,3
+140928,Electronic,3
+140929,Electronic,3
+140930,Electronic,3
+140932,Electronic,2
+140933,Electronic,0
+140934,Electronic,3
+141849,Rock,1
+141853,Rock,1
+141854,Rock,1
+141856,Rock,1
+141857,Rock,1
+141972,Experimental,0
+141975,Experimental,0
+142574,International,3
+142575,International,2
+142576,International,3
+143078,Rock,2
+143079,Rock,2
+143093,Rock,2
+143094,Rock,2
+143095,Rock,2
+143096,Rock,2
+143097,Rock,2
+143098,Rock,2
+143099,Rock,2
+144592,Electronic,1
+144593,Electronic,3
+144594,Electronic,2
+144595,Electronic,1
+144596,Electronic,0
+144803,Experimental,1
+144808,Experimental,0
+144809,Experimental,0
+144810,Experimental,0
+145043,Experimental,2
+145206,Classical,0
+145207,Classical,0
+145208,Classical,0
+145209,Classical,0
+145241,Rock,2
+145242,Rock,0
+145431,Instrumental,0
+145432,Instrumental,2
+145549,Electronic,3
+145808,Electronic,0
+145810,Electronic,0
+145814,Electronic,3
+145816,Electronic,0
+145817,Electronic,0
+145818,Electronic,3
+145819,Electronic,2
+145830,Electronic,0
+145831,Electronic,0
+145840,Electronic,0
+145841,Electronic,0
+147295,Folk,2
+148014,Electronic,3
+148015,Electronic,3
+148016,Electronic,3
+148017,Electronic,3
+148018,Electronic,3
+148028,Hip-Hop,3
+148029,Hip-Hop,0
+148030,Hip-Hop,3
+148031,Hip-Hop,3
+148032,Hip-Hop,3
+148080,Experimental,2
+148081,Experimental,2
+148082,Experimental,2
+148112,Instrumental,2
+148113,Instrumental,3
+148114,Instrumental,3
+148120,Instrumental,3
+148121,Instrumental,3
+148124,Instrumental,0
+148130,Instrumental,3
+148131,Instrumental,3
+148132,Instrumental,3
+148133,Instrumental,3
+148161,Rock,1
+148162,Rock,0
+148186,Folk,2
+148187,Folk,0
+148190,Folk,2
+148192,Folk,0
+148208,Folk,0
+148210,Folk,0
+148211,Folk,0
+148212,Folk,0
+148213,Folk,0
+148214,Folk,2
+148215,Folk,0
+148216,Folk,0
+148217,Folk,0
+148218,Folk,0
+148228,Folk,0
+148229,Folk,0
+148230,Folk,0
+148231,Folk,0
+148232,Folk,3
+148233,Folk,0
+148234,Folk,0
+148235,Folk,0
+148429,International,0
+148430,International,2
+148460,Experimental,3
+148468,Experimental,3
+148469,Experimental,3
+148536,Rock,2
+148537,Rock,2
+148598,Rock,0
+148599,Rock,2
+148600,Rock,0
+148601,Rock,2
+148643,Classical,0
+148644,Classical,2
+148645,Classical,0
+148646,Classical,0
+148647,Classical,0
+148648,Classical,0
+148649,Classical,0
+148650,Classical,0
+148651,Classical,0
+148653,Classical,0
+148821,Rock,2
+148928,Rock,0
+148932,Rock,0
+148934,Rock,0
+148935,Rock,0
+148936,Rock,0
+149716,Instrumental,0
+149717,Instrumental,0
+149718,Instrumental,0
+149719,Instrumental,0
+149720,Instrumental,0
+149721,Instrumental,0
+149722,Instrumental,0
+149723,Instrumental,0
+149724,Instrumental,0
+149725,Instrumental,0
+149726,Instrumental,0
+149727,Instrumental,0
+150157,Hip-Hop,3
+150158,Hip-Hop,3
+150159,Hip-Hop,3
+150160,Hip-Hop,3
+150161,Hip-Hop,0
+150163,Hip-Hop,0
+150164,Hip-Hop,3
+150165,Hip-Hop,3
+150166,Hip-Hop,3
+151243,Electronic,3
+151244,Electronic,3
+151245,Electronic,3
+151246,Electronic,3
+151966,Rock,2
+151968,Rock,2
+151972,Rock,3
+151973,Rock,2
+152103,International,3
+152253,International,3
+152254,International,3
+152258,International,3
+152261,International,3
+152262,International,3
+152322,Electronic,3
+152323,Electronic,0
+152704,Electronic,0
+152720,Electronic,3
+152721,Electronic,0
+154319,Electronic,3
+155298,Folk,0
+155306,Folk,0
+155307,Experimental,3
+155314,Rock,2
