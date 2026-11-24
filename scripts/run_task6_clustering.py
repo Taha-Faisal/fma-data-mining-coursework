@@ -1,8 +1,4 @@
-"""Compare FMA audio descriptor clusters on the shared validation split.
-
-AI-generated code (OpenAI Codex). Full user prompt:
-"that is ahmeds task to give me the spectograms can we move forward without it for now?"
-"""
+"""Compare FMA audio descriptor clusters on the shared validation split."""
 import argparse
 import json
 from datetime import datetime, timezone

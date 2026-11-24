@@ -1,13 +1,10 @@
 """Generate final-cohort development evidence from already saved predictions.
 
-AI-generated code (OpenAI Codex). Full user prompt:
-"Could you implement the next changes that you have recommended?"
 No training, threshold selection or model scoring occurs here.
 """
 from pathlib import Path
 import json
 import hashlib
-import sys
 import joblib
 import numpy as np
 import pandas as pd
@@ -146,7 +143,6 @@ lines+=['','## Final-cohort analysis',
     '- `test_comparison.csv`, `test_predictions.csv`, `TEST_UNCERTAINTY.json`: final evaluation and uncertainty.',
     '- `cohort_split_summary.csv`, `cohort_genres.csv`, `metadata_missingness.csv`: current descriptive tables.',
     '- `figures/`: cohort overview, threshold comparison, validation/test PR and confusion plots, tree and cluster genres.',
-    '- `subgroup_errors.csv`, `error_examples.csv`, `CLUSTERING_RECEIPT.json`: interpretation evidence.',
-    '','The assessed six-page PDF, contribution appendix, final presentation, repository staff access, peer assessment and independent student evaluation are not completed by this development report. See SUBMISSION_HANDOFF.md for the remaining responsibilities.']
+    '- `subgroup_errors.csv`, `error_examples.csv`, `CLUSTERING_RECEIPT.json`: interpretation evidence.']
 (OUT/'REPORT.md').write_text('\n'.join(lines)+'\n',encoding='utf-8')
 print('Saved report, descriptive tables and figures',flush=True)

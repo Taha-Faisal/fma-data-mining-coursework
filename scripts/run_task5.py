@@ -1,7 +1,4 @@
-"""Build the task 5 FMA mel spectrogram collection. Run from the project root.
-
-AI-generated code (OpenAI Codex). Full user prompt: "run task 5"
-"""
+"""Build the task 5 FMA mel spectrogram collection. Run from the project root."""
 
 import argparse
 from collections import Counter

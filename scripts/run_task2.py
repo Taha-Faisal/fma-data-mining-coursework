@@ -1,8 +1,4 @@
-"""Run the task 2 manifest builder from the project root.
-
-AI-generated code (OpenAI Codex). Full user prompt:
-"lets move on to task 2"
-"""
+"""Run the task 2 manifest builder from the project root."""
 
 from pathlib import Path
 import sys

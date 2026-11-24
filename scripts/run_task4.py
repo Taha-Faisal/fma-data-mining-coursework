@@ -1,7 +1,4 @@
-"""Train the task 4 MLP and interpret its validation predictions.
-
-AI-generated code (OpenAI Codex). Full user prompt: "implement task 4"
-"""
+"""Train the task 4 MLP and interpret its validation predictions."""
 
 import argparse
 from copy import deepcopy

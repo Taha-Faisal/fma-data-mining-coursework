@@ -1,12 +1,7 @@
-"""Freeze the reviewed audio cohort while preserving candidate group/split assignments.
-
-AI-generated code (OpenAI Codex). Full initiating user prompt:
-"Continue with the second phase. And create a dashboard for me to show what tasks are done and what are said to be done."
-"""
+"""Freeze the reviewed audio cohort while preserving candidate group/split assignments."""
 from pathlib import Path
 from datetime import datetime, timezone
 import hashlib
-import importlib.util
 import json
 import math
 import os

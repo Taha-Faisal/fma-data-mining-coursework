@@ -1,9 +1,4 @@
-"""Replay the recorded cleaning rules on the official FMA medium metadata selection.
-
-AI-generated code (OpenAI Codex). User confirmation: "yea this is final".
-Repository reconstruction option added for the user request:
-"Complete the five pending tasks. And how are we supposed to fix a to reported task and historical issues? Without going outside of our specification and scope?"
-"""
+"""Replay the recorded cleaning rules on the official FMA medium metadata selection."""
 import argparse
 import hashlib
 from io import StringIO

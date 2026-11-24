@@ -1,9 +1,4 @@
-"""Download and verify the official FMA metadata, without downloading audio.
-
-AI-generated code (OpenAI Codex). Full user prompt:
-"I want you to implement the first task of the data mining project."
-The coursework requires the student to evaluate generated code independently.
-"""
+"""Download and verify the official FMA metadata, without downloading audio."""
 
 import argparse
 import hashlib

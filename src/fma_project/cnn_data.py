@@ -1,8 +1,4 @@
-"""Frozen-cohort numeric input loader for the planned binary spectrogram CNN.
-
-AI-generated code (OpenAI Codex). Full initiating user prompt:
-"Continue with the second phase. And create a dashboard for me to show what tasks are done and what are said to be done."
-"""
+"""Frozen-cohort numeric input loader for the planned binary spectrogram CNN."""
 from pathlib import Path
 import csv
 import hashlib

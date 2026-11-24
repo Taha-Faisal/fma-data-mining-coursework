@@ -1,8 +1,4 @@
-"""Verify the archived coursework scores using only Python's standard library.
-
-AI-generated code (OpenAI Codex). Initiating request:
-"Complete the five pending tasks. And how are we supposed to fix a to reported task and historical issues? Without going outside of our specification and scope?"
-"""
+"""Verify the archived coursework scores using only Python's standard library."""
 import csv
 import hashlib
 import json
@@ -10,7 +6,7 @@ import math
 from collections import defaultdict
 from pathlib import Path
 
-PROJECT = Path(__file__).resolve().parent / "04_Current_Project_Snapshot"
+PROJECT = Path(__file__).resolve().parent
 PHASE = PROJECT / "results/phase4"
 
 

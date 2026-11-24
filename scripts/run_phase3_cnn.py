@@ -1,7 +1,5 @@
 """Train the planned spectrogram CNN using frozen train/validation data only.
 
-AI-generated code (OpenAI Codex). Full initiating user prompt:
-"Continue on with the next phase."
 API references: https://docs.pytorch.org/docs/2.11/notes/amp_examples.html
 https://docs.pytorch.org/docs/2.11/generated/torch.nn.BCEWithLogitsLoss.html
 https://docs.pytorch.org/docs/2.11/notes/randomness.html

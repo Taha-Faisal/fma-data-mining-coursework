@@ -5,4 +5,6 @@ __pycache__/
 *.mp3
 *.npy
 *.env
-04_Current_Project_Snapshot/data/raw/
+data/raw/
+results/task1/
+results/phase4/REPORT.md

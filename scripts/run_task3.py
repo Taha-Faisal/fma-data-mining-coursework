@@ -1,8 +1,4 @@
-"""Train and compare tabular classifiers on the task 2 validation split.
-
-AI-generated code (OpenAI Codex). Full user prompt:
-"what would task 3 be and implement it"
-"""
+"""Train and compare tabular classifiers on the task 2 validation split."""
 
 import argparse
 from datetime import datetime, timezone

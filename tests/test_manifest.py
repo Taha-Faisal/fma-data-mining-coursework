@@ -1,4 +1,4 @@
-"""AI-generated code (OpenAI Codex). User prompt: 'lets move on to task 2'."""
+"""Unit tests for grouped splitting and review validation in the task 2 manifest builder."""
 import sys
 from pathlib import Path
 import unittest

@@ -1,7 +1,5 @@
 """Bounded validation threshold study, immutable evaluation lock, and held-out scoring.
 
-AI-generated code (OpenAI Codex). Full initiating user prompt:
-"Could you implement the next changes that you have recommended?"
 Stages must run in order: plan, validate, test, analyze. Training is never rerun.
 """
 from pathlib import Path

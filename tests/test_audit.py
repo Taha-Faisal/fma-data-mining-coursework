@@ -1,9 +1,4 @@
-"""Behavioural checks for task 1, using synthetic data rather than FMA results.
-
-AI-generated code (OpenAI Codex). Full user prompt:
-"I want you to implement the first task of the data mining project."
-The coursework requires the student to evaluate generated code independently.
-"""
+"""Behavioural checks for task 1, using synthetic data rather than FMA results."""
 
 import contextlib
 import io

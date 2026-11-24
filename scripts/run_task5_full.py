@@ -1,10 +1,4 @@
-"""Resumable full-cohort FMA conversion with bounded parallel workers.
-
-AI-generated code (OpenAI Codex). Full initiating user prompt:
-"Do the full spectrogram conversion."
-The user previously confirmed permission for research, ML and AI use.
-Student independent evaluation and applicable course acknowledgement remain required.
-"""
+"""Resumable full-cohort FMA conversion with bounded parallel workers."""
 from __future__ import annotations
 
 import os
@@ -22,14 +16,12 @@ import json
 from pathlib import Path
 import platform
 import shutil
-import sys
 import time
 from zipfile import ZipFile
 
 import numpy as np
 
 PROJECT = Path(__file__).resolve().parents[1]
-COLLECTION = PROJECT.parent
 FIELDS = ["track_id", "group_id", "set_split", "hit", "eligibility", "audio_path", "available",
           "status", "detail", "quality_status", "duration_seconds", "adjustment_samples",
           "array_path", "dtype", "n_mels", "n_frames", "source_sha1", "source_sha256",
@@ -139,7 +131,7 @@ def main():
     import scipy
     import soxr
 
-    audio = COLLECTION / "01_Original_Files/FMA_Audio/fma_medium_audio.zip"
+    audio = PROJECT / "data/fma_audio/fma_medium_audio.zip"
     registered = json.loads((audio.parent / "AUDIO_VERIFICATION.json").read_text(encoding="utf-8"))
     if audio.stat().st_size != registered["bytes"] or not registered["official_archive_sha1_matches"]:
         raise ValueError("Audio does not match registered source information")

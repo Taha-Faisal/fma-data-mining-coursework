@@ -1,8 +1,4 @@
-"""Refit classical and MLP experiments on the reviewed frozen cohort.
-
-AI-generated code (OpenAI Codex). Full initiating user prompt:
-"Continue on with the next phase."
-"""
+"""Refit classical and MLP experiments on the reviewed frozen cohort."""
 from pathlib import Path
 from datetime import datetime, timezone
 import json

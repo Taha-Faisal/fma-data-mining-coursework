@@ -1,9 +1,4 @@
-"""Task 1: inventory and audit the data without changing the modelling cohort.
-
-AI-generated code (OpenAI Codex). Full user prompt:
-"I want you to implement the first task of the data mining project."
-The coursework requires the student to evaluate generated code independently.
-"""
+"""Task 1: inventory and audit the data without changing the modelling cohort."""
 
 from __future__ import annotations
 

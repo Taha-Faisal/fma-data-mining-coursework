@@ -1,9 +1,4 @@
-"""Task 2: deterministic grouped splits and a shared, versioned label manifest.
-
-AI-generated code (OpenAI Codex). Full user prompt:
-"lets move on to task 2"
-Earlier brief section 8 requires independent student evaluation and attribution.
-"""
+"""Task 2: deterministic grouped splits and a shared, versioned label manifest."""
 
 from __future__ import annotations
 

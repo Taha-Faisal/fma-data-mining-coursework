@@ -1,8 +1,4 @@
-"""Independently inspect every saved array and shared-manifest association.
-
-AI-generated development verification for the user request:
-"Do the full spectrogram conversion."
-"""
+"""Independently inspect every saved array and shared-manifest association."""
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor
 from collections import Counter

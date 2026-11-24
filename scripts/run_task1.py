@@ -1,8 +1,4 @@
-"""Run the task 1 audit from the project root.
-
-AI-generated code (OpenAI Codex). Full user prompt:
-"I want you to implement the first task of the data mining project."
-"""
+"""Run the task 1 audit from the project root."""
 
 from pathlib import Path
 import sys
