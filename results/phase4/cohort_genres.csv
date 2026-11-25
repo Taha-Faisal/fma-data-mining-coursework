@@ -1,0 +1,18 @@
+track_genre_top,test,training,validation,All
+Blues,3,71,0,74
+Classical,80,463,76,619
+Country,3,156,19,178
+Easy Listening,7,14,0,21
+Electronic,349,5392,539,6280
+Experimental,271,1832,143,2246
+Folk,161,1174,178,1513
+Hip-Hop,49,2030,90,2169
+Instrumental,197,1063,75,1335
+International,86,873,58,1017
+Jazz,56,310,14,380
+Old-Time / Historic,1,58,451,510
+Pop,136,992,51,1179
+Rock,591,5656,832,7079
+Soul-RnB,22,129,3,154
+Spoken,14,87,17,118
+All,2026,20300,2546,24872

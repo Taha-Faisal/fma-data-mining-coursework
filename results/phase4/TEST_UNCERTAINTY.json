@@ -1,0 +1,68 @@
+{
+  "protocol": {
+    "seed": 20261116,
+    "resamples": 5000,
+    "unit": "frozen linked group_id",
+    "method": "paired percentile bootstrap",
+    "comparisons": "Validation-selected model versus every other model; exploratory, no multiple-comparison adjustment; fixed fitted models only"
+  },
+  "groups": 335,
+  "largest_group": 110,
+  "intervals": {
+    "Always hit": [
+      0.32759733171619165,
+      0.4888912579957356
+    ],
+    "CNN": [
+      0.3659693876118716,
+      0.5264272701560575
+    ],
+    "Decision Tree": [
+      0.31932257399083663,
+      0.46397716810079703
+    ],
+    "MLP": [
+      0.3481880620410857,
+      0.5113152349354375
+    ],
+    "Majority": [
+      0.0,
+      0.0
+    ],
+    "Naive Bayes": [
+      0.32153012314412704,
+      0.4530839296672137
+    ],
+    "kNN": [
+      0.3386646426090168,
+      0.48411508651254626
+    ]
+  },
+  "preferred_minus_other": {
+    "Always hit": [
+      0.01941557019998349,
+      0.06369952168030504
+    ],
+    "Decision Tree": [
+      0.02418391144547021,
+      0.08336387611364701
+    ],
+    "MLP": [
+      -0.0027896628996807696,
+      0.04168464218177876
+    ],
+    "Majority": [
+      0.3659693876118716,
+      0.5264272701560575
+    ],
+    "Naive Bayes": [
+      0.015370488339317848,
+      0.10013289736028982
+    ],
+    "kNN": [
+      0.01031933643049372,
+      0.06154166598694921
+    ]
+  },
+  "limitation": "Conditional on fitted models and observed group distribution; excludes training variation. Exploratory multiple comparisons, not adjusted significance tests."
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_id": "e630aee72cc47e9c62d1d893e674285d7775525c66b92be2fe2eb3c0bc1699e6",
+  "status": "candidate",
+  "files": {
+    "cohort_decisions.csv": "4cbaa2919b500ee65f441b4fcfe4e02678c63313e2e711870f4b0a29f3d012f1",
+    "config.json": "8c77a06522fe020ce7ba9ab4214da6dc95a6f98cf1d4fd63df24706b05faa262",
+    "exclusions.csv": "b9b9fb03f11d3674d160417e30919fc98b4c10c1c91c2d44c4387fe15757f1f4",
+    "group_summary.csv": "4ea1cfab9b321b39ae1fd33c62f66489049d5c4d06457cd63efdb97733df356a",
+    "grouping_links.csv": "921b8194d71689d4034bbbf73bff136ac32b97fe90d9cccff01b36c1d07d8479",
+    "manifest_candidate.csv": "9eaff9780128d69ee8334188e38419bb928003efc83a75780e066808f5c2b321",
+    "review_template.json": "41fc515bd2fa26b919be9f875941e0d2ebb6eced5b5bebcf1349e3b57b6703c5",
+    "split_changes.csv": "4f9dec85b22bbf15eeef9ac22909a13162b3b1ed6dc215e2f5fe93a7c0207efd",
+    "split_summary.csv": "a59d9f90ea8b63410bc3f9f7e3a6d3c6c0622e611ed0b73cd1f4ad5fe320fb63",
+    "TASK2_REPORT.md": "ba252884d674cc6473be6934c085030cd075c65938e4282884ac1255b75b4af2",
+    "track_decisions_template.csv": "1d87e9e12aae9819c938cbaca3f5ae409600b55eece590146e55e822ad99ac98"
+  }
+}

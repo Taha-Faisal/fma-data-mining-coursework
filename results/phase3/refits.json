@@ -1,0 +1,10 @@
+{
+  "status": "complete",
+  "stage": "validation_refits_complete",
+  "started_utc": "2026-11-16T00:42:55.527231+00:00",
+  "cohort_id": "e835f28bc62fd9389d0aeada330cd892bb6d9747482860d87a584f2d2b4fb344",
+  "test_scored": false,
+  "classical_run": "results\\task3\\frozen_20261116T004258251980Z",
+  "mlp_run": "results\\task4\\frozen_20261116T004323340999Z",
+  "finished_utc": "2026-11-16T00:43:34.507861+00:00"
+}

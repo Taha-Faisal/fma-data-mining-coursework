@@ -1,0 +1,39 @@
+{
+  "status": "verified",
+  "gpu": "NVIDIA GeForce RTX 4070",
+  "cuda": "12.8",
+  "cudnn": 91900,
+  "versions": {
+    "torch": "2.11.0+cu128",
+    "numpy": "2.5.4",
+    "pandas": "3.1.1",
+    "scikit-learn": "1.9.1",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.2"
+  },
+  "cuda_available": true,
+  "real_audio_forward_backward_verified": true,
+  "tiny_training_check": {
+    "passed": true,
+    "gradient_verified": true,
+    "tracks": [
+      64974,
+      12594,
+      98989,
+      119726,
+      116547,
+      43761,
+      23151,
+      97402
+    ],
+    "training_only": true,
+    "initial_loss": 0.6962679624557495,
+    "final_loss": 0.16951864957809448,
+    "accuracy": 1.0,
+    "steps": 75,
+    "dropout": 0.0,
+    "learning_rate": 0.003,
+    "note": "Debugging check only. Weights discarded before full experiments."
+  },
+  "test_arrays_loaded": false
+}

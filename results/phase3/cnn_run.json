@@ -1,0 +1,19 @@
+{
+  "status": "complete",
+  "stage": "cnn_validation_experiments_complete",
+  "started_utc": "2026-11-16T00:51:36.735217+00:00",
+  "folder": "results\\task6_cnn\\frozen_71ff5f58c238b27a",
+  "cohort_id": "e835f28bc62fd9389d0aeada330cd892bb6d9747482860d87a584f2d2b4fb344",
+  "test_scored": false,
+  "trial": "selected_lr_weighted",
+  "epoch": 19,
+  "batch": 1200,
+  "batches_per_epoch": 1269,
+  "tracks_processed_in_epoch": 19200,
+  "elapsed_epoch_seconds": 15.054124900001625,
+  "validation_hit_f1": 0.4534979423868313,
+  "best_validation_hit_f1": 0.4534979423868313,
+  "best_epoch": 14,
+  "selected_trial": "selected_lr_weighted",
+  "finished_utc": "2026-11-16T01:04:06.814908+00:00"
+}

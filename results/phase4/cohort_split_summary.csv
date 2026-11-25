@@ -1,0 +1,4 @@
+set_split,tracks,hits,groups,artists,hit_fraction
+test,2026,524,335,434,0.25863770977295164
+training,20300,5075,2672,4369,0.25
+validation,2546,684,334,738,0.26865671641791045

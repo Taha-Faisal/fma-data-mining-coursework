@@ -1,0 +1,14 @@
+{
+  "candidate_id": "e835f28bc62fd9389d0aeada330cd892bb6d9747482860d87a584f2d2b4fb344",
+  "status": "frozen",
+  "files": {
+    "cohort_decisions.csv": "14bcf804d0f4fec17a8364bc9714e12864183a342e8a6ebdf62858d9d1129744",
+    "config.json": "24dcae1e66ac471a252c3e380e1634846b03873df6adc59645e714bf2b76f72d",
+    "exclusions.csv": "be6090a8afe11b6b2fa0055b5ee3b8263061eb66bab4cc5c8542a9f046191503",
+    "grouping_links.csv": "634aef763485311a4cf2d539bb6aa0eedb3966a99ac237fac4886d69a0bb381b",
+    "label_changes.csv": "153174387bd2a0126ad4958a41b5b6ed6386e3420771589347b76997d54cdebd",
+    "manifest.csv": "b9f35a4f7de3fb803c2feeac00fa38edea378cc3d7318a780703c969d4b59db5",
+    "split_summary.csv": "23ed11128aa73698e687019944908b1b209cf7514d2885d43f8f23ede78eca78",
+    "TASK2_REPORT.md": "c4cf462f4c020d4aca0c6f64a0f83ac2360d462111ce34af0303225cbd43ca28"
+  }
+}

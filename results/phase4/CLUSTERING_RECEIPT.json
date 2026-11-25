@@ -1,0 +1,18 @@
+{
+  "folder": "results/task6_clustering/frozen_20261116T012719744637Z",
+  "cohort_id": "e835f28bc62fd9389d0aeada330cd892bb6d9747482860d87a584f2d2b4fb344",
+  "training_tracks": 20300,
+  "validation_sample": 2000,
+  "selected": {
+    "GMM": {
+      "k": 4,
+      "silhouette": 0.006064762442046382
+    },
+    "k-means": {
+      "k": 4,
+      "silhouette": 0.08029089993637507
+    }
+  },
+  "run_sha256": "327a518bba489d0453ff038e53a183b266e03c3e861f10ee88aafb25effeb4d2",
+  "scores_sha256": "72b009ca73197771c69cdc000fdf49ea768784192ff14b144b2c54029f486f97"
+}

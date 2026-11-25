@@ -1,0 +1,12 @@
+# Core analysis (exact versions used: requirements-lock.txt)
+numpy>=2.2,<3
+pandas>=2.2,<4
+matplotlib>=3.10,<4
+scikit-learn>=1.6,<2
+joblib>=1.4
+threadpoolctl>=3.5
+# Spectrogram conversion
+librosa>=0.11,<0.12
+soundfile>=0.13,<1
+# CNN training (exact versions used: results/phase3/requirements-cnn-lock.txt)
+# torch>=2.11  (install separately; CUDA build recorded in the lock file)

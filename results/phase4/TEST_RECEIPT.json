@@ -1,0 +1,10 @@
+{
+  "status": "complete",
+  "completed_utc": "2026-11-16T01:30:14.842389+00:00",
+  "models": 7,
+  "tracks_per_model": 2026,
+  "prediction_rows": 14182,
+  "predictions_sha256": "1ad6c7f7d7353a81465ce9ac4d9c2f248cdbabf21c5d6b817ab2566dae919db0",
+  "lock_sha256": "326f58e22772cc5e2bce8c4e116eb4cc0498f3fd1da0812fe4fdd0dd236823a4",
+  "test_scored": true
+}

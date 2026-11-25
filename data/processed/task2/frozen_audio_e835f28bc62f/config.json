@@ -1,0 +1,167 @@
+{
+  "candidate_id": "e835f28bc62fd9389d0aeada330cd892bb6d9747482860d87a584f2d2b4fb344",
+  "status": "frozen",
+  "created_at_utc": "2026-11-16T00:11:19.349097+00:00",
+  "method": "audio_review_with_preserved_candidate_splits",
+  "identity": {
+    "schema_version": 2,
+    "parent_candidate_id": "e630aee72cc47e9c62d1d893e674285d7775525c66b92be2fe2eb3c0bc1699e6",
+    "runner_sha256": "391364c37102df7b03ae33aecc4884928ba8932bba7cab2b4e50cfb9a1d8ea18",
+    "parent_manifest_sha256": "9eaff9780128d69ee8334188e38419bb928003efc83a75780e066808f5c2b321",
+    "conversion_manifest_sha256": "a97e61293830f0a8924a5b8e42304d04b474e8945515a63d7e40d1a3d4522e5b",
+    "conversion_verification_sha256": "4171e56cacd11748d58c359f99d28b65b7400705b0a0c7e626a783bc75bdc67f",
+    "exclusion_rule": "Exclude conversion failures and predeclared >1-second duration warnings",
+    "split_policy": "Preserve parent candidate group IDs and split membership; no seed/search/reassignment",
+    "target_policy": "Refit training-only linear 75th percentile on reviewed core cohort",
+    "listens_cutoff": 2179.25,
+    "permission_basis": "User confirmed research/ML/AI permission"
+  },
+  "inputs": {
+    "cleaned_csv": {
+      "status": "present",
+      "path": "data/raw/fma_medium_clean2.csv",
+      "bytes": 5748165,
+      "sha256": "f094a8df9b4eea58b993e99440763da33d4a47fd9c5c9e5f71537208dae6a178"
+    },
+    "original_tracks": {
+      "status": "present",
+      "path": "data/raw/fma_metadata/tracks.csv",
+      "bytes": 260414445,
+      "sha256": "f73260fd112b8cd42bcd4f7c8918fc66b19d9d4c7b97f4faedce524b59e95d6b"
+    },
+    "features": {
+      "status": "present",
+      "path": "data/raw/fma_metadata/features.csv",
+      "bytes": 951117185,
+      "sha256": "a035d04941e15fc3240aadd6880c519471d218329bbfe0e82c17553ba50e9e16"
+    },
+    "track_decisions": {
+      "status": "not_supplied",
+      "path": null
+    },
+    "related_links": {
+      "status": "not_supplied",
+      "path": null
+    }
+  },
+  "cohort": {
+    "input_tracks": 24896,
+    "included_tracks": 24872,
+    "excluded_tracks": 24,
+    "groups": 3341,
+    "changed_split_tracks": 0
+  },
+  "target": {
+    "listens_cutoff": 2179.25,
+    "minimum_integer_listens": 2180,
+    "rule": "track_listens >= reviewed_training_quantile_0.75",
+    "fitted_on": "training",
+    "previous_cutoff": 2178,
+    "label_changes": 8
+  },
+  "overlap_counts_after": {
+    "group_id": 0,
+    "artist_id": 0,
+    "album_id": 0,
+    "normalized_artist_name": 0,
+    "source_sha256": 0,
+    "array_sha256": 0,
+    "inherited_grouping_links": 0
+  },
+  "split_summary": [
+    {
+      "split": "validation",
+      "tracks": 2546,
+      "groups": 334,
+      "hits": 684,
+      "hit_pct": 26.865671641791046
+    },
+    {
+      "split": "training",
+      "tracks": 20300,
+      "groups": 2672,
+      "hits": 5075,
+      "hit_pct": 25.0
+    },
+    {
+      "split": "test",
+      "tracks": 2026,
+      "groups": 335,
+      "hits": 524,
+      "hit_pct": 25.863770977295164
+    }
+  ],
+  "pending_eligibility": 0,
+  "pending_audio": 0,
+  "review": {
+    "candidate_id": "e835f28bc62fd9389d0aeada330cd892bb6d9747482860d87a584f2d2b4fb344",
+    "reviews": {
+      "cleaning": {
+        "status": "complete",
+        "reviewed_by": "Automated phase-two review of prior cleaning evidence",
+        "notes": "Final 24,896 cleaned selection and 104 duplicate removals retained as provenance; 24 audio-quality exclusions recorded separately.",
+        "evidence": [
+          {
+            "path": "../cleaning/REVIEW.md",
+            "sha256": "a4b0557dcb1a53ecba44bec84baf6808fc81a4731aa8cc90725a96adb3ecf16c"
+          },
+          {
+            "path": "../../raw/fma_medium_clean2.csv",
+            "sha256": "f094a8df9b4eea58b993e99440763da33d4a47fd9c5c9e5f71537208dae6a178"
+          }
+        ]
+      },
+      "eligibility": {
+        "status": "complete",
+        "reviewed_by": "Project user confirmation, recorded by Codex",
+        "notes": "User confirmed research/ML/AI permission; retained tracks are eligible under that reported team decision.",
+        "evidence": [
+          {
+            "path": "PERMISSION_RECORD.md",
+            "sha256": "00236ad03c243ba8b9834d6e92ca6513c144f39d47a387de699f2cc0181a124b"
+          }
+        ]
+      },
+      "audio": {
+        "status": "complete",
+        "reviewed_by": "Automated full-cohort conversion and independent saved-array verification",
+        "notes": "23 failures and one unusually short clip excluded without reference to model performance; retained array checks pass.",
+        "evidence": [
+          {
+            "path": "../../processed/spectrograms/full_c2fcad16360ed43b/manifest.csv",
+            "sha256": "a97e61293830f0a8924a5b8e42304d04b474e8945515a63d7e40d1a3d4522e5b"
+          },
+          {
+            "path": "../../processed/spectrograms/full_c2fcad16360ed43b/verification.json",
+            "sha256": "4171e56cacd11748d58c359f99d28b65b7400705b0a0c7e626a783bc75bdc67f"
+          }
+        ]
+      },
+      "related_recordings": {
+        "status": "complete",
+        "reviewed_by": "Automated scoped dependency review",
+        "notes": "Preserved parent grouping and verified no cross-split artist/album/name/inherited link or exact MP3/array hash dependencies. Acoustic near-duplicates beyond these checks remain a documented limitation.",
+        "evidence": [
+          {
+            "path": "RELATED_RECORD_CHECKS.json",
+            "sha256": "36231f723025e27ee96ac8ba1bff94160684ecd4b998b795181c912843e090a3"
+          },
+          {
+            "path": "../../processed/task2/candidate_e630aee72cc4/grouping_links.csv",
+            "sha256": "921b8194d71689d4034bbbf73bff136ac32b97fe90d9cccff01b36c1d07d8479"
+          }
+        ]
+      }
+    }
+  },
+  "review_file": {
+    "path": "data/review/audio_phase2/REVIEW.json",
+    "sha256": "b0ceb80289ff968f057bbf43a88d8f0fa0b96aa4ad8f2d1070b96a8e1a3926c5"
+  },
+  "open_items": [],
+  "limitations": [
+    "Acoustic near-duplicates outside exact hashes/inherited grouping were not exhaustively searched.",
+    "Prior candidate model metrics are historical; refit before comparing on this cohort.",
+    "Student independent code evaluation and report/presentation completion are not established by these checks."
+  ]
+}
